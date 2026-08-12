@@ -1,0 +1,238 @@
+@import "tailwindcss";
+
+@theme {
+    /* Main theme */
+    --color-dullblue-light: oklch(0.914 0.025 263.34);
+    --color-dullblue-base: oklch(0.561 0.093 256.85);
+    --color-dullblue-medium: oklch(0.483 0.083 258.07);
+    --color-dullblue-dark: oklch(0.225 0.038 257.16);
+
+    /* Spacing */
+    --spacing-small: 1em;
+    --spacing-medium: 1.25;
+    --spacing-large: 2em;
+
+    /* Font */
+    --font-ultra: Ultra, sans-serif;
+    --font-val: Valorant, sans-serif;
+}
+
+@font-face {
+    font-family: "Ultra";
+    src: url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
+
+    font-family: "Valorant";
+    src: url("/assets/valorant-font.ttf") format("truetype");
+}
+
+@layer components {
+    /* navbar */
+    .nav {
+        display: flex;
+        flex-direction: row;
+        background-color: inherit;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1em;
+
+        position: relative;
+
+        height: 10vh;
+    }
+
+    .dropdown {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        
+        position: absolute;
+        top: 100%;
+        left: 0;
+        
+        width: fit-content;
+        height: auto;
+
+        padding:1em;
+
+        border-radius: 4px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .icon {
+        color: inherit;
+        aspect-ratio: 1/1;
+        width: 2em;
+        font-size: 2em;
+
+        cursor: pointer;
+    }
+
+    .modal {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 50;
+
+        background-color: oklch(0.483 0.083 258.07);
+        padding: 2em;
+        border-radius: 10px;
+        border: 2px solid oklch(0.225 0.038 257.16);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+        width: 60vw;
+        height: 50vh;
+    }
+
+    .modal-close {
+        position: absolute;
+        top: 5px;
+        left: 10px;
+
+        color: inherit;
+        font-size: 2em;
+
+        cursor: pointer;
+    }
+
+    .auth-button {
+        background-color: oklch(0.225 0.038 257.16);
+        border: 2px solid oklch(0.914 0.025 263.34);
+        border-radius: 10px;
+        box-shadow: 0 4px 4px oklch(0.225 0.038 257.16);
+
+        color: oklch(0.914 0.025 263.34);
+        text-decoration: none;
+        padding: 5px;
+        cursor: pointer;
+    }
+
+    .auth-button:hover {
+        border: 2px solid oklch(0.914 0.025 263.34);
+    }
+
+    .auth-text {
+        background-color: oklch(0.914 0.025 263.34);
+        border: 2px solid oklch(0.225 0.038 257.16);
+        color: oklch(0.225 0.038 257.16);
+        border-radius: 10px;
+
+        padding: 5px;
+    }
+
+    /* general helper classes */
+    .center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hor-center {
+        display: flex;
+        align-items: center;
+    }
+
+    .smooth-border {
+        background-color: oklch(0.561 0.093 256.85);
+        border: 2px solid oklch(0.914 0.025 263.34);
+        border-radius: 25px;
+    }
+
+    .row-container {
+        display: flex;
+        flex-direction: row;
+        gap: 2em;
+
+        padding: 4em;
+    }
+
+    .col-container {
+        display: flex;
+        flex-direction: column;
+        gap: 2em;
+
+        padding: 4em;
+    }
+
+    .unavailable {
+        background-color: black;
+        opacity: 60%;
+    }
+
+    /* game selector styling */
+    .logo {
+        color: inherit;
+        aspect-ratio: 1/1;
+        width: 20vw;
+        
+        border-radius: 25px;
+        cursor: pointer;
+    }
+
+    /* game setting styling*/
+    .banner {
+        position: relative;
+        height: 100%;
+        width: 100%;
+
+        padding: 10px;
+        border: 8px solid transparent;
+        border-radius: 10px;
+    }
+
+    .remove-checkbox {
+        height: 100%;
+        width: 100%;
+
+        opacity: 0%;
+        cursor: pointer;
+    }
+
+    .check-region {
+        height: 100%;
+        width: 100%;
+
+        opacity: 0%;       
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .region-logo {
+        height: 10%;
+        object-fit: contain;
+            
+        border-radius: 25px;
+    }
+
+    .stat {
+        aspect-ratio: 1/1;
+        width: 5vw;
+        align-self: flex-start;
+    }
+
+    .stat-label {
+        width: 5vw;
+        
+        font-size: 0.75em;
+        border-bottom: 2px solid oklch(0.914 0.025 263.34);
+    }
+
+    .agent-logo {
+        aspect-ratio: 1/1;
+        width: 3vw;
+    }
+
+    /* Game*/
+    .guess {
+        background-color: oklch(0.914 0.025 263.34);
+        border: 2px solid oklch(0.561 0.093 256.85);
+        color: oklch(0.225 0.038 257.16);
+        text-decoration: none;
+        padding: 0 20px 0 20px;
+    }
+}
