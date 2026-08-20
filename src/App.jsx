@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
-import GameSelectMenu from './pages/GameSelectMenu'
+import GameSelectPage from './pages/GameSelect'
 
 function App() {
 
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<GameSelectMenu />} />
+        <Route path="/" element={<GameSelectPage />} />
       </Routes>
     </BrowserRouter>
   )
