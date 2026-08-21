@@ -4,8 +4,8 @@ import LoginHeader from './LoginHeader'
 function GameSettingHeader() {
   return (
     <>
-        <nav className="nav border-b-2 border-dullblue-base text-3xl">
-            <div className="right-nav">
+        <nav className="nav text-3xl">
+            <div className="absolute right-[10px]">
                 {/* <!-- currently unimplemented --> */}
                 <button id="help" className="icon"><i className="fa-regular fa-circle-question"></i></button>
 

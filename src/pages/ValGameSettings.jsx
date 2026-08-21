@@ -1,17 +1,17 @@
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import MainLayout from '../layout/layout'
-import UserLogin from '../components/LoginHeader'
-import GameSelectMenu from '../components/GameSelectMenu'
+import Header from '../components/headers/GameSettingHeader'
+import RegionBanners from '../components/RegionBanner'
 
-function GameSelectPage() {
+function ValGameSettings() {
   return (
     <>
         <MainLayout>
-          <UserLogin/>
-          <GameSelectMenu/>
+          <Header/>
+          <RegionBanners/>
         </MainLayout>
     </>
   )
 }
 
-export default GameSelectPage
+export default ValGameSettings
