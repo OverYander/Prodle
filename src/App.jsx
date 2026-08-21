@@ -1,13 +1,15 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
-import './App.css'
+import GameSelectPage from './pages/GameSelect'
 
 function App() {
 
   return (
-    <>
-      <div> start </div>
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<GameSelectPage />} />
+      </Routes>
+    </BrowserRouter>
   )
 }
 
