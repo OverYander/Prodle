@@ -5,7 +5,7 @@ function RegionBanner({image='', region=''}) {
         <div className="center banner"> 
             {/* add label and image to checkbox */}
             <input type="checkbox" id={region} name={region} className="remove-checkbox"></input>
-            <label for={region} className="absolute center">
+            <label htmlFor={region} className="absolute center">
                 <img src={image} className="region-logo"></img>
             </label>
         </div>

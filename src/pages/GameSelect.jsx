@@ -6,10 +6,10 @@ import GameSelectMenu from '../components/GameSelectMenu'
 function GameSelectPage() {
   return (
     <>
-        <MainLayout>
-          <UserLogin/>
-          <GameSelectMenu/>
-        </MainLayout>
+      <MainLayout>
+        <UserLogin/>
+        <GameSelectMenu/>
+      </MainLayout>
     </>
   )
 }
