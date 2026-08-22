@@ -6,7 +6,7 @@ import GameSelectMenu from '../components/game-select-specific/GameSelectMenu'
 function GameSelectPage() {
   return (
     <>
-      <MainLayout>
+      <MainLayout orientation="horizontal">
         <UserLogin/>
         <GameSelectMenu/>
       </MainLayout>
