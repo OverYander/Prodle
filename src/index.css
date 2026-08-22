@@ -19,10 +19,12 @@
 
 @font-face {
     font-family: "Ultra";
-    src: url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
+    src: url("./assets/fonts/Ultra-Regular.ttf") format("truetype");
+}
 
+@font-face {
     font-family: "Valorant";
-    src: url("/assets/valorant-font.ttf") format("truetype");
+    src: url("./assets/fonts/valorant-font.ttf") format("truetype");
 }
 
 @layer components {
@@ -159,6 +161,8 @@
     }
 
     .unavailable {
+        height: fit-content;
+        width: fit-content;
         background-color: black;
         opacity: 60%;
     }
@@ -203,7 +207,7 @@
     }
 
     .region-logo {
-        height: 10%;
+        width: 60%;
         object-fit: contain;
             
         border-radius: 25px;
@@ -225,6 +229,13 @@
     .agent-logo {
         aspect-ratio: 1/1;
         width: 3vw;
+    }
+
+    .banner-text {
+        font-family: inherit;
+        font-size: 1em;
+        font-weight: bold;
+        color: black;
     }
 
     /* Game*/

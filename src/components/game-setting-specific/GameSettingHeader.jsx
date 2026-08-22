@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import LoginHeader from './LoginHeader'
+import LoginHeader from '../game-select-specific/LoginHeader'
 
 function GameSettingHeader() {
   return (
