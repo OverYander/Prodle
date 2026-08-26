@@ -7,6 +7,8 @@
     --color-dullblue-medium: oklch(0.483 0.083 258.07);
     --color-dullblue-dark: oklch(0.225 0.038 257.16);
 
+    --color-valorant-red: #ff4655;
+
     /* Spacing */
     --spacing-small: 1em;
     --spacing-medium: 1.25;
@@ -167,6 +169,15 @@
         opacity: 60%;
     }
 
+    .parrallel-container {
+        transform: skewX(-20deg); 
+    }
+
+    .parrallel-text{
+        display: inline-block; 
+        transform: skewX(20deg);
+    }
+
     /* game selector styling */
     .logo {
         color: inherit;
@@ -212,6 +223,19 @@
         border-radius: 25px;
     }
 
+    .global-logo {
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .banner-text {
+        font-family: inherit;
+        font-size: 1em;
+        font-weight: bold;
+        color: black;
+    }
+
+    /* Game */
     .stat {
         aspect-ratio: 1/1;
         width: 5vw;
@@ -230,14 +254,6 @@
         width: 3vw;
     }
 
-    .banner-text {
-        font-family: inherit;
-        font-size: 1em;
-        font-weight: bold;
-        color: black;
-    }
-
-    /* Game*/
     .guess {
         background-color: oklch(0.914 0.025 263.34);
         border: 2px solid oklch(0.561 0.093 256.85);
