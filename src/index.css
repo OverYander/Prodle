@@ -184,32 +184,31 @@
         width: 100%;
 
         padding: 10px;
-        border: 8px solid transparent;
+        opacity: 70%;
+        transition: opacity 150ms ease;
         border-radius: 10px;
+    }
+
+    .banner:not(.check-banner):hover {
+    opacity: 80%;
     }
 
     .remove-checkbox {
         height: 100%;
         width: 100%;
 
-        opacity: 0%;
+        opacity: 0;
         cursor: pointer;
     }
 
-    .check-region {
-        height: 100%;
-        width: 100%;
-
-        opacity: 0%;       
-        position: absolute;
-        top: 0;
-        left: 0;
+    .check-banner {
+        opacity: 100%;
     }
 
     .region-logo {
         width: 60%;
         object-fit: contain;
-            
+        
         border-radius: 25px;
     }
 

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
-import imgVal from "../assets/img/val-logo.jpg"
-import imgLol from "../assets/img/lol-logo.png"
-import imgApex from "../assets/img/apex-logo.jpg"
+import imgVal from "../../assets/img/val-logo.jpg"
+import imgLol from "../../assets/img/lol-logo.png"
+import imgApex from "../../assets/img/apex-logo.jpg"
 
 function GameSelectMenu() {
 
