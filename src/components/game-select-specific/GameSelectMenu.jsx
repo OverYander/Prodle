@@ -1,14 +1,14 @@
 import { Link } from 'react-router-dom';
-import imgVal from "../assets/img/val-logo.jpg"
-import imgLol from "../assets/img/lol-logo.png"
-import imgApex from "../assets/img/apex-logo.jpg"
+import imgVal from "../../assets/img/val-logo.jpg"
+import imgLol from "../../assets/img/lol-logo.png"
+import imgApex from "../../assets/img/apex-logo.jpg"
 
 function GameSelectMenu() {
 
   return (
     <>
         <div className="center row-container flex-1 p-[2em]"> 
-            <Link to="/prodle/valorant/settings" className="center flex flex-col smooth-border ">
+            <Link to="/valorant/setup" className="center flex flex-col smooth-border ">
                 <img src={imgVal} className="logo"></img>
             </Link>
             <Link to="" className="center flex flex-col unavailable smooth-border text-dullblue-dark text-2xl font-ultra">
