@@ -8,7 +8,7 @@ function GameSelectMenu() {
   return (
     <>
         <div className="center row-container flex-1 p-[2em]"> 
-            <Link to="/valorant/settings" className="center flex flex-col smooth-border ">
+            <Link to="/valorant/setup" className="center flex flex-col smooth-border ">
                 <img src={imgVal} className="logo"></img>
             </Link>
             <Link to="" className="center flex flex-col unavailable smooth-border text-dullblue-dark text-2xl font-ultra">

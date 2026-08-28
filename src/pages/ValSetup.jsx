@@ -35,7 +35,7 @@ function ValGameSettings() {
                 <RegionBanners image={PacBanner} region="pac" checked={checkedRegions.pac} onChange={toggleCheck('pac')}/>
                 <RegionBanners image={CNBanner} region="cn"/>
             </div>
-            <SettingSubmission/>
+            <SettingSubmission selectedRegions={checkedRegions}/>
         </MainLayout>
     </>
   )
