@@ -1,125 +1,89 @@
-// Scrapes the VCT 2026 Stage 2 group stages into players.db.
+// Scrapes the current VCT events into players.db using vlr-stats-scraper's `valstats` CLI.
 // Run from the repo root:  npm run scrape   then   npm run export-players
+// The event list lives in current-event.mjs.
 //
-// Rosters (display name + the team each player played for at the event) come from the event
-// page; everything else (winnings, agents, stats, nationality, past teams) comes from each
-// player's profile via vlr-stats-scraper.
+// valstats sets each player's region from the event title (Americas -> AMER, EMEA, Pacific -> PAC,
+// China -> CN) and pulls rosters, event stats and career stats. Re-running an event replaces its roster.
+//
+// Some overview pages (e.g. China Stage 2) show empty roster placeholders with no player links.
+// For those, players are taken from the event's stats page instead and added one at a time.
 //
 // Events run one at a time because Hyperbrowser rate-limits job creation (HTTP 429).
-// Players already saved for an event are skipped, so re-running only fills in failures.
+// Needs HYPERBROWSER_API_KEY in .env.
 import 'dotenv/config';
+import { spawnSync } from 'child_process';
+import { createRequire } from 'module';
 import * as cheerio from 'cheerio';
 import { Hyperbrowser } from '@hyperbrowser/sdk';
-import {
-  scrapePlayer,
-  savePlayer,
-  saveEvent,
-  addPlayerToEvent,
-  getPlayersByEvent,
-} from 'vlr-stats-scraper';
+import { eventStatsUrl, getAllPlayers } from 'vlr-stats-scraper';
+import { CURRENT_EVENT, eventName } from './current-event.mjs';
 
-const EVENTS = [
-  { name: 'VCT 2026 Americas Stage 2', region: 'AMER', url: 'https://www.vlr.gg/event/2977/vct-2026-americas-stage-2/group-stage' },
-  { name: 'VCT 2026 Pacific Stage 2', region: 'PAC', url: 'https://www.vlr.gg/event/2776/vct-2026-pacific-stage-2/group-stage' },
-  { name: 'VCT 2026 EMEA Stage 2', region: 'EMEA', url: 'https://www.vlr.gg/event/2976/vct-2026-emea-stage-2/group-stage' },
-];
+// Run the CLI with node directly (no shell) so names with spaces stay one argument.
+const VALSTATS = createRequire(import.meta.url).resolve('vlr-stats-scraper').replace(/index\.mjs$/, 'main.mjs');
+const YEAR = String(CURRENT_EVENT.YEAR);
+const EVENTS = CURRENT_EVENT.EVENTS.map(e => ({ ...e, name: eventName(e.label) }));
+const MAX_ATTEMPTS = 3;
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-const MAX_ATTEMPTS = 5;
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
-const client = new Hyperbrowser({ apiKey: process.env.HYPERBROWSER_API_KEY });
-
-// vlr.gg lists these status notes alongside team names; they aren't teams.
-const TEAM_NOTE = /^(inactive from .+|stand-?in|loan|substitute)$/i;
-
-async function retry(fn) {
-  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-    try {
-      const result = await fn();
-      if (result) return result;
-    } catch (err) {
-      if (attempt === MAX_ATTEMPTS) console.error(err.message);
-    }
-    await sleep(2000 * attempt);
-  }
-  return undefined;
-}
-
-// Returns [{ link, displayName, team }] for every player on the event's "Participating Teams" list.
-async function fetchRoster(url) {
-  const res = await client.scrape.startAndWait({ url, scrapeOptions: { formats: ['html'] } });
-  if (!res?.data?.html) return undefined;
-
-  const $ = cheerio.load(res.data.html);
-  const roster = [];
-  $('.event-team').each((_, teamEl) => {
-    const team = $(teamEl).find('.event-team-name').first().text().trim();
-    $(teamEl).find('a.event-team-players-item').each((_, playerEl) => {
-      roster.push({
-        link: `${$(playerEl).attr('href')}/?timespan=all`,
-        displayName: $(playerEl).text().trim(),
-        team,
-      });
-    });
+function valstats(args) {
+  const { status, stdout } = spawnSync(process.execPath, [VALSTATS, ...args], {
+    stdio: ['inherit', 'pipe', 'inherit'],
+    encoding: 'utf8',
+    maxBuffer: 64 * 1024 * 1024,
   });
-  return roster.length ? roster : undefined;
+  process.stdout.write(stdout ?? '');
+  return { ok: status === 0, stdout: stdout ?? '' };
 }
 
-function cleanPlayer(player, { displayName, team }) {
-  const pastTeams = player.past_teams
-    .filter(t => !TEAM_NOTE.test(t))
-    .filter(t => t.toLowerCase() !== team.toLowerCase());
-
-  return {
-    ...player,
-    name: displayName,
-    team,
-    past_teams: [...new Set(pastTeams)],
-  };
+// Profile links of everyone in the event's stats table.
+async function statsPagePlayers(url) {
+  const client = new Hyperbrowser({ apiKey: process.env.HYPERBROWSER_API_KEY });
+  const res = await client.scrape.startAndWait({ url: eventStatsUrl(url), scrapeOptions: { formats: ['html'] } });
+  const $ = cheerio.load(res?.data?.html ?? '');
+  return [...new Set($('a[href*="/player/"]').map((_, el) => new URL($(el).attr('href'), 'https://www.vlr.gg').href).get())];
 }
 
-async function scrapeEvent({ name, region, url }, usedNames) {
-  const eventId = saveEvent({ name, url, region, year: 2026, stage: 2 });
-  const done = new Set(getPlayersByEvent(name).map(p => p.name));
-  done.forEach(n => usedNames.add(n));
+// Adds each player from the stats page to an already-saved event. Skips players already in it.
+async function addFromStatsPage({ name, url, region }) {
+  const links = await statsPagePlayers(url);
+  if (!links.length) return false;
 
-  const roster = await retry(() => fetchRoster(url));
-  if (!roster) {
-    console.error(`[${region}] couldn't read the roster at ${url}`);
-    return { saved: done.size, total: 0, failed: [] };
-  }
+  const saved = new Set(getAllPlayers()
+    .filter(p => p.event_name === name && p.event_year === CURRENT_EVENT.YEAR)
+    .map(p => String(p.vlr_id)));
+  const todo = links.filter(l => !saved.has(l.match(/\/player\/(\d+)/)?.[1]));
+  console.log(`[${name}] overview has no rosters, using the stats page: ${links.length} players, ${todo.length} to add`);
 
-  const todo = roster.filter(p => !done.has(p.displayName));
-  console.log(`[${region}] ${roster.length} players, ${roster.length - todo.length} already saved, scraping ${todo.length}`);
-
-  const failed = [];
-  for (const entry of todo) {
-    // The package logs each player's slug as it scrapes; that's expected noise.
-    const scraped = await retry(() => scrapePlayer(entry.link, region));
-    if (!scraped) {
-      failed.push(entry.link);
-      console.error(`[${region}] gave up on ${entry.link}`);
-      continue;
+  let missing = 0;
+  for (const link of todo) {
+    let ok = false;
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS && !ok; attempt++) {
+      ok = valstats(['--player', link, name, YEAR, region]).ok;
+      if (!ok) await sleep(2000 * attempt);
     }
-
-    const player = cleanPlayer(scraped, entry);
-    // Display names are the primary key; fall back to the URL slug on a clash.
-    if (usedNames.has(player.name)) {
-      console.warn(`[${region}] duplicate name "${player.name}", saving as "${scraped.name}"`);
-      player.name = scraped.name;
+    if (!ok) {
+      missing++;
+      console.error(`[${name}] gave up on ${link}`);
     }
-    usedNames.add(player.name);
-
-    savePlayer(player);
-    addPlayerToEvent(eventId, player.name);
-    done.add(player.name);
-    console.log(`[${region}] ${done.size}/${roster.length} ${player.name} (${player.team})`);
-    await sleep(500);
   }
-  return { saved: done.size, total: roster.length, failed };
+  return missing === 0;
 }
 
-const usedNames = new Set();
-for (const event of EVENTS) {
-  const { saved, total, failed } = await scrapeEvent(event, usedNames);
-  console.log(`${event.name}: ${saved}/${total} players saved${failed.length ? `, ${failed.length} failed` : ''}`);
+// Pass event names (e.g. `npm run scrape -- "China Stage 2"`) to scrape only those.
+const only = process.argv.slice(2);
+const events = only.length ? EVENTS.filter(e => only.includes(e.name)) : EVENTS;
+
+const failed = [];
+for (const event of events) {
+  console.log(`\n=== ${event.name} ===`);
+  const { ok, stdout } = valstats([event.url, YEAR, event.name]);
+  // valstats exits 0 even when the overview page lists nobody.
+  const empty = /Found 0 players/.test(stdout);
+  if (!ok || (empty && !(await addFromStatsPage(event)))) failed.push(event.name);
 }
+
+if (failed.length) {
+  console.error(`\nFailed: ${failed.join(', ')}. Re-run with: npm run scrape -- ${failed.map(n => `"${n}"`).join(' ')}`);
+  process.exit(1);
+}
+console.log('\nAll events scraped. Next: npm run export-players');
