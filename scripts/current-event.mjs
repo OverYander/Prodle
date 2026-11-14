@@ -1,6 +1,6 @@
 // The events the game currently pulls players from. Update this by hand when a new split starts:
 // change NAME/YEAR and swap in the new vlr.gg group-stage (Overview) links, then
-//   npm run scrape  ->  npm run export-players  ->  npm run daily -- --force
+//   npm run scrape  ->  npm run export-players  ->  commit and push (Vercel redeploys)
 //
 // Each event is saved in players.db as "<label> <NAME>" (e.g. "China Stage 2") with year YEAR.
 // Older events stay in players.db, but export-players only includes players from these.
