@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { dailyPlayer } from '../data/daily'
 import { Link, Navigate, useParams } from 'react-router-dom'
 
 import MainLayout from '../layout/layout'
@@ -13,46 +14,37 @@ function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
 
-// public/daily/valorant.json is written by `npm run daily` (scripts/daily-players.mjs).
-function useDailyAnswers() {
-  const [daily, setDaily] = useState({ loading: true })
+// Today's Eastern date, updated when it rolls over at 12am ET while the page is open.
+function useEasternDate() {
+  const [date, setDate] = useState(easternDate)
 
   useEffect(() => {
-    let cancelled = false
-    fetch('/daily/valorant.json', { cache: 'no-store' })
-      .then(res => (res.ok ? res.json() : null))
-      .catch(() => null)
-      .then(data => { if (!cancelled) setDaily({ loading: false, data }) })
-    return () => { cancelled = true }
+    const id = setInterval(() => setDate(easternDate()), 30_000)
+    return () => clearInterval(id)
   }, [])
 
-  return daily
+  return date
 }
 
 function ValProdle() {
   const { regions: rawSlug } = useParams()
   const regions = slugToRegions(rawSlug)
-  const daily = useDailyAnswers()
+  const date = useEasternDate()
 
   if (regions.length === 0) return <Navigate to="/valorant/setup" replace/>
 
-  // Normalise e.g. "pac-amer" -> "amer-pac" so it matches the daily file's keys.
+  // Normalise e.g. "pac-amer" -> "amer-pac" so everyone choosing the same regions gets the same daily player.
   const slug = regionsToSlug(regions)
   if (slug !== rawSlug) return <Navigate to={`/prodle/valorant/${slug}`} replace/>
 
-  if (daily.loading) return null
-
   const regionCodes = regions.map(r => REGION_CODES[r])
   const pool = players.filter(p => regionCodes.includes(p.region))
-
-  const isToday = daily.data?.date === easternDate()
-  const dailyName = isToday ? daily.data.answers?.[slug] : undefined
-  const dailyAnswer = pool.find(p => p.name === dailyName)
+  const dailyAnswer = dailyPlayer(pool, slug, date)
 
   // Keyed so switching regions or a new day starts a fresh game.
   return (
     <ValProdleGame
-      key={`${slug}-${daily.data?.date}`}
+      key={`${slug}-${date}`}
       regionCodes={regionCodes}
       pool={pool}
       dailyAnswer={dailyAnswer}
@@ -61,7 +53,6 @@ function ValProdle() {
 }
 
 function ValProdleGame({ regionCodes, pool, dailyAnswer }) {
-  // No daily pick available (script hasn't run today) -> fall back to a random practice player.
   const [answer, setAnswer] = useState(() => dailyAnswer ?? pickRandom(pool))
   const [guesses, setGuesses] = useState([])
   const isDaily = Boolean(dailyAnswer) && answer === dailyAnswer

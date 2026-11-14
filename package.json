@@ -9,9 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "scrape": "node scripts/scrape-vct.mjs",
-    "export-players": "node scripts/export-players.mjs",
-    "daily": "node scripts/daily-players.mjs",
-    "daily:watch": "node scripts/daily-players.mjs --watch"
+    "export-players": "node scripts/export-players.mjs"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.3.1",

@@ -1,6 +1,6 @@
 // The browser can't read SQLite, so this dumps players.db into a JSON file the game imports.
 // Only players from the current events (scripts/current-event.mjs) are included, so the game and
-// the daily picker never use rosters from older splits.
+// the daily player never come from older splits.
 // Run from the repo root after scraping: npm run export-players
 import { mkdirSync, writeFileSync } from 'fs';
 import { getAllPlayers } from 'vlr-stats-scraper';

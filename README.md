@@ -26,12 +26,12 @@ HYPERBROWSER_API_KEY=your_key_here
 
 | Command | What it does |
 | --- | --- |
-| `npm run scrape` | Scrapes the VCT 2026 Stage 2 group stages (Americas, Pacific, EMEA) into `players.db`. Re-running only fills in players that failed. |
-| `npm run export-players` | Writes `players.db` to `src/data/players.json`. Run after every scrape. |
-| `npm run daily` | Picks today's player for every region combination into `public/daily/valorant.json`. Add `-- --force` to re-roll. |
-| `npm run daily:watch` | Stays running and re-picks at 12am Eastern every day. |
+| `npm run scrape` | Scrapes the current VCT events (Americas, Pacific, EMEA, China) into `players.db`. Add event names, e.g. `-- "China Stage 2"`, to scrape only those. |
+| `npm run export-players` | Writes the current events' players from `players.db` to `src/data/players.json`. Run after every scrape. |
 
-Events to scrape are listed at the top of `scripts/scrape-vct.mjs`.
+The current events (split name, year and vlr.gg links) are set in `scripts/current-event.mjs`. Update it by hand each split.
+
+The daily player is picked in the browser from the date (`src/data/daily.js`), so there's nothing to run each day. It changes at 12am Eastern.
 
 Each player's **team** is the team they played for at the event, and their **name** is the display
 name from the event roster.
@@ -40,5 +40,5 @@ name from the event roster.
 
 - `src/pages/` – game select, Valorant setup, and the game itself
 - `src/data/` – exported players, region helpers, guess comparison
-- `scripts/` – scrape, export and daily-pick scripts (Node only, not bundled)
-- `public/daily/` – the daily answers the game loads at runtime
+- `scripts/` – scrape and export scripts (Node only, not bundled)
+- `vercel.json` – sends every URL to `index.html` so page refreshes work on Vercel
