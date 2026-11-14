@@ -1,8 +1,9 @@
 function LoginHeader() {
   return (
     <>
-      <div className="nav">
-        <button id="auth" className="icon absolute top-[10px] right-[10px]"><i className="fa-solid fa-user"></i></button>
+      {/* Floats over the game sections so they can take the full screen */}
+      <div className="absolute top-[10px] right-[10px] z-10">
+        <button id="auth" className="icon"><i className="fa-solid fa-user"></i></button>
       </div>
     </>
   )

@@ -1,0 +1,2459 @@
+[
+  {
+    "name": "Absol",
+    "team": "ZETA DIVISION",
+    "winnings": "$4,989",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "yoru"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "Akame",
+    "team": "DetonatioN FocusMe",
+    "winnings": "$4,834",
+    "most_played_agents": [
+      "sova",
+      "kayo",
+      "raze"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "al0rante",
+    "team": "PCIFIC Esports",
+    "winnings": "$7,477",
+    "most_played_agents": [
+      "cypher",
+      "viper",
+      "raze"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "GERMANY",
+    "region": "EMEA"
+  },
+  {
+    "name": "Alfajer",
+    "team": "FNATIC",
+    "winnings": "$411,618",
+    "most_played_agents": [
+      "killjoy",
+      "raze",
+      "cypher"
+    ],
+    "avg_kda": 1.21,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "ara",
+    "team": "GIANTX",
+    "winnings": "$28,131",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "ROMANIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "artzin",
+    "team": "FURIA",
+    "winnings": "$35,150",
+    "most_played_agents": [
+      "jett",
+      "kayo",
+      "raze"
+    ],
+    "avg_kda": 0.99,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "Ash",
+    "team": "Gen.G",
+    "winnings": "$44,848",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.14,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "aspas",
+    "team": "MIBR",
+    "winnings": "$308,282",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "reyna"
+    ],
+    "avg_kda": 1.35,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "Asuna",
+    "team": "100 Thieves",
+    "winnings": "$282,630",
+    "most_played_agents": [
+      "raze",
+      "phoenix",
+      "kayo"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "audaz",
+    "team": "Eternal Fire",
+    "winnings": "$10,661",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "brimstone"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Autumn",
+    "team": "Global Esports",
+    "winnings": "$74,119",
+    "most_played_agents": [
+      "jett",
+      "cypher",
+      "yoru"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "AUSTRALIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Avez",
+    "team": "Karmine Corp",
+    "winnings": "$64,226",
+    "most_played_agents": [
+      "raze",
+      "sova",
+      "jett"
+    ],
+    "avg_kda": 1.26,
+    "nationality": "EGYPT",
+    "region": "EMEA"
+  },
+  {
+    "name": "BABYBAY",
+    "team": "G2 Esports",
+    "winnings": "$101,650",
+    "most_played_agents": [
+      "jett",
+      "chamber",
+      "vyse"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "bang",
+    "team": "100 Thieves",
+    "winnings": "$279,780",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "bao",
+    "team": "Evil Geniuses",
+    "winnings": "$4,988",
+    "most_played_agents": [
+      "viper",
+      "cypher",
+      "omen"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "VIETNAM",
+    "region": "AMER"
+  },
+  {
+    "name": "basic",
+    "team": "FURIA",
+    "winnings": "$1,283",
+    "most_played_agents": [
+      "breach",
+      "kayo",
+      "omen"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "benjyfishy",
+    "team": "Team Heretics",
+    "winnings": "$300,710",
+    "most_played_agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "UNITED KINGDOM",
+    "region": "EMEA"
+  },
+  {
+    "name": "BeYN",
+    "team": "KIWOOM DRX",
+    "winnings": "$122,551",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "jett"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "bipo",
+    "team": "Gentle Mates",
+    "winnings": "$34,628",
+    "most_played_agents": [
+      "jett",
+      "neon",
+      "raze"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "ITALY",
+    "region": "EMEA"
+  },
+  {
+    "name": "blowz",
+    "team": "LEVIATÁN",
+    "winnings": "$87,845",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "Boaster",
+    "team": "FNATIC",
+    "winnings": "$457,684",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "brimstone"
+    ],
+    "avg_kda": 0.91,
+    "nationality": "UNITED KINGDOM",
+    "region": "EMEA"
+  },
+  {
+    "name": "Boo",
+    "team": "Team Heretics",
+    "winnings": "$314,559",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "LITHUANIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "brawk",
+    "team": "NRG",
+    "winnings": "$373,448",
+    "most_played_agents": [
+      "sova",
+      "skye",
+      "breach"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "BuZz",
+    "team": "T1",
+    "winnings": "$247,959",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "C0M",
+    "team": "FURIA",
+    "winnings": "$340,775",
+    "most_played_agents": [
+      "sova",
+      "viper",
+      "cypher"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "C1ndeR",
+    "team": "VARREL",
+    "winnings": "$11,544",
+    "most_played_agents": [
+      "omen",
+      "raze",
+      "breach"
+    ],
+    "avg_kda": 0.98,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Caedye",
+    "team": "DetonatioN FocusMe",
+    "winnings": "$14,017",
+    "most_played_agents": [
+      "viper",
+      "cypher",
+      "raze"
+    ],
+    "avg_kda": 1.09,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "chloric",
+    "team": "Natus Vincere",
+    "winnings": "$12,335",
+    "most_played_agents": [
+      "sova",
+      "raze",
+      "kayo"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "UNITED STATES",
+    "region": "EMEA"
+  },
+  {
+    "name": "Chronicle",
+    "team": "Team Vitality",
+    "winnings": "$599,629",
+    "most_played_agents": [
+      "viper",
+      "sova",
+      "breach"
+    ],
+    "avg_kda": 1.21,
+    "nationality": "RUSSIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "Cloud",
+    "team": "FNATIC",
+    "winnings": "$54,440",
+    "most_played_agents": [
+      "sova",
+      "skye",
+      "fade"
+    ],
+    "avg_kda": 1.09,
+    "nationality": "RUSSIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "cortezia",
+    "team": "Sentinels",
+    "winnings": "$31,792",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "brimstone"
+    ],
+    "avg_kda": 1.14,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "crashies",
+    "team": "FNATIC",
+    "winnings": "$380,650",
+    "most_played_agents": [
+      "sova",
+      "skye",
+      "fade"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "UNITED STATES",
+    "region": "EMEA"
+  },
+  {
+    "name": "crazyguy",
+    "team": "Rex Regum Qeon",
+    "winnings": "$68,731",
+    "most_played_agents": [
+      "sova",
+      "omen",
+      "fade"
+    ],
+    "avg_kda": 1.02,
+    "nationality": "VIETNAM",
+    "region": "PAC"
+  },
+  {
+    "name": "Crewen",
+    "team": "BBL Esports",
+    "winnings": "$54,600",
+    "most_played_agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Crws",
+    "team": "FULL SENSE",
+    "winnings": "$71,300",
+    "most_played_agents": [
+      "breach",
+      "omen",
+      "skye"
+    ],
+    "avg_kda": 0.91,
+    "nationality": "THAILAND",
+    "region": "PAC"
+  },
+  {
+    "name": "Cryocells",
+    "team": "100 Thieves",
+    "winnings": "$270,660",
+    "most_played_agents": [
+      "jett",
+      "sova",
+      "chamber"
+    ],
+    "avg_kda": 1.34,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "CyvOph",
+    "team": "Natus Vincere",
+    "winnings": "$4,536",
+    "most_played_agents": [
+      "breach",
+      "jett",
+      "kayo"
+    ],
+    "avg_kda": 0.99,
+    "nationality": "FRANCE",
+    "region": "EMEA"
+  },
+  {
+    "name": "d4v41",
+    "team": "Paper Rex",
+    "winnings": "$471,661",
+    "most_played_agents": [
+      "skye",
+      "viper",
+      "jett"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "MALAYSIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Dambi",
+    "team": "Nongshim RedForce",
+    "winnings": "$152,915",
+    "most_played_agents": [
+      "neon",
+      "raze",
+      "waylay"
+    ],
+    "avg_kda": 1.09,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Dantedeu5",
+    "team": "KRÜ Esports",
+    "winnings": "$8,986",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "ARGENTINA",
+    "region": "AMER"
+  },
+  {
+    "name": "Darker",
+    "team": "LOUD",
+    "winnings": "$233,875",
+    "most_played_agents": [
+      "breach",
+      "omen",
+      "viper"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "COLOMBIA",
+    "region": "AMER"
+  },
+  {
+    "name": "DaviH",
+    "team": "LOUD",
+    "winnings": "$228,178",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "omen"
+    ],
+    "avg_kda": 1.23,
+    "nationality": "PORTUGAL",
+    "region": "AMER"
+  },
+  {
+    "name": "Demon1",
+    "team": "ENVY",
+    "winnings": "$253,060",
+    "most_played_agents": [
+      "chamber",
+      "jett",
+      "brimstone"
+    ],
+    "avg_kda": 1.25,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Derke",
+    "team": "Team Vitality",
+    "winnings": "$390,092",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "yoru"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "FINLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "dgzin",
+    "team": "Evil Geniuses",
+    "winnings": "$23,488",
+    "most_played_agents": [
+      "jett",
+      "neon",
+      "raze"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "DH",
+    "team": "T1",
+    "winnings": "$14,360",
+    "most_played_agents": [
+      "omen",
+      "cypher",
+      "viper"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "dos9",
+    "team": "Karmine Corp",
+    "winnings": "$45,173",
+    "most_played_agents": [
+      "omen",
+      "jett",
+      "brimstone"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "KAZAKHSTAN",
+    "region": "EMEA"
+  },
+  {
+    "name": "echo",
+    "team": "Eternal Fire",
+    "winnings": "$9,669",
+    "most_played_agents": [
+      "cypher",
+      "viper",
+      "vyse"
+    ],
+    "avg_kda": 1.03,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "eeiu",
+    "team": "FURIA",
+    "winnings": "$59,575",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "breach"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "Efina",
+    "team": "Gen.G",
+    "winnings": "$23,537",
+    "most_played_agents": [
+      "killjoy",
+      "cypher",
+      "fade"
+    ],
+    "avg_kda": 0.96,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "eKo",
+    "team": "ZETA DIVISION",
+    "winnings": "$20,755",
+    "most_played_agents": [
+      "sova",
+      "neon",
+      "fade"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "erde",
+    "team": "LOUD",
+    "winnings": "$223,049",
+    "most_played_agents": [
+      "omen",
+      "breach",
+      "sage"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "CHILE",
+    "region": "AMER"
+  },
+  {
+    "name": "Ethan",
+    "team": "NRG",
+    "winnings": "$645,700",
+    "most_played_agents": [
+      "skye",
+      "kayo",
+      "omen"
+    ],
+    "avg_kda": 0.97,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "ExiT",
+    "team": "Natus Vincere",
+    "winnings": "$24,181",
+    "most_played_agents": [
+      "jett",
+      "neon",
+      "raze"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "SAUDI ARABIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "f0rsakeN",
+    "team": "Paper Rex",
+    "winnings": "$476,311",
+    "most_played_agents": [
+      "jett",
+      "omen",
+      "neon"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "INDONESIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Favian",
+    "team": "Eternal Fire",
+    "winnings": "$9,142",
+    "most_played_agents": [
+      "raze",
+      "breach",
+      "kayo"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "FireBallOps",
+    "team": "Cloud9",
+    "winnings": "$3,140",
+    "most_played_agents": [
+      "killjoy",
+      "cypher",
+      "chamber"
+    ],
+    "avg_kda": 1.19,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Flicker",
+    "team": "KIWOOM DRX",
+    "winnings": "$10,074",
+    "most_played_agents": [
+      "waylay",
+      "sova",
+      "yoru"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Flickless",
+    "team": "GIANTX",
+    "winnings": "$30,080",
+    "most_played_agents": [
+      "breach",
+      "kayo",
+      "jett"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "BELGIUM",
+    "region": "EMEA"
+  },
+  {
+    "name": "Foxy9",
+    "team": "VARREL",
+    "winnings": "$81,776",
+    "most_played_agents": [
+      "killjoy",
+      "jett",
+      "cypher"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Francis",
+    "team": "Nongshim RedForce",
+    "winnings": "$152,915",
+    "most_played_agents": [
+      "yoru",
+      "sova",
+      "fade"
+    ],
+    "avg_kda": 1.06,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "free1ng",
+    "team": "KIWOOM DRX",
+    "winnings": "$97,716",
+    "most_played_agents": [
+      "cypher",
+      "tejo",
+      "killjoy"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "GLYPH",
+    "team": "ENVY",
+    "winnings": "$24,610",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "PHILIPPINES",
+    "region": "AMER"
+  },
+  {
+    "name": "heat",
+    "team": "KRÜ Esports",
+    "winnings": "$30,770",
+    "most_played_agents": [
+      "jett",
+      "chamber",
+      "kayo"
+    ],
+    "avg_kda": 1.22,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "hiro",
+    "team": "Natus Vincere",
+    "winnings": "$47,695",
+    "most_played_agents": [
+      "cypher",
+      "viper",
+      "raze"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "HYUNMIN",
+    "team": "KIWOOM DRX",
+    "winnings": "$90,096",
+    "most_played_agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "invy",
+    "team": "Paper Rex",
+    "winnings": "$121,119",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "breach"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "PHILIPPINES",
+    "region": "PAC"
+  },
+  {
+    "name": "Ivy",
+    "team": "Nongshim RedForce",
+    "winnings": "$152,915",
+    "most_played_agents": [
+      "viper",
+      "cypher",
+      "sova"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "iZu",
+    "team": "T1",
+    "winnings": "$106,606",
+    "most_played_agents": [
+      "yoru",
+      "sova",
+      "jett"
+    ],
+    "avg_kda": 1.23,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Izzy",
+    "team": "Eternal Fire",
+    "winnings": "$19,686",
+    "most_played_agents": [
+      "jett",
+      "neon",
+      "yoru"
+    ],
+    "avg_kda": 1.23,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Jackk",
+    "team": "Cloud9",
+    "winnings": "$1,389",
+    "most_played_agents": [
+      "fade",
+      "sova",
+      "tejo"
+    ],
+    "avg_kda": 1.21,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Jamppi",
+    "team": "Team Vitality",
+    "winnings": "$250,969",
+    "most_played_agents": [
+      "jett",
+      "sova",
+      "breach"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "FINLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "jawgemo",
+    "team": "G2 Esports",
+    "winnings": "$406,336",
+    "most_played_agents": [
+      "raze",
+      "yoru",
+      "jett"
+    ],
+    "avg_kda": 1.09,
+    "nationality": "CAMBODIA",
+    "region": "AMER"
+  },
+  {
+    "name": "Jemkin",
+    "team": "Rex Regum Qeon",
+    "winnings": "$51,232",
+    "most_played_agents": [
+      "jett",
+      "yoru",
+      "raze"
+    ],
+    "avg_kda": 1.22,
+    "nationality": "RUSSIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Jerrwin",
+    "team": "Sentinels",
+    "winnings": "$3,840",
+    "most_played_agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "INDIA",
+    "region": "AMER"
+  },
+  {
+    "name": "Jesse",
+    "team": "GIANTX",
+    "winnings": "$18,727",
+    "most_played_agents": [
+      "omen",
+      "sova",
+      "viper"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "CZECH REPUBLIC",
+    "region": "EMEA"
+  },
+  {
+    "name": "Jinggg",
+    "team": "Paper Rex",
+    "winnings": "$456,058",
+    "most_played_agents": [
+      "raze",
+      "reyna",
+      "sage"
+    ],
+    "avg_kda": 1.22,
+    "nationality": "SINGAPORE",
+    "region": "PAC"
+  },
+  {
+    "name": "JitBoyS",
+    "team": "FULL SENSE",
+    "winnings": "$31,454",
+    "most_played_agents": [
+      "killjoy",
+      "cypher",
+      "omen"
+    ],
+    "avg_kda": 1.01,
+    "nationality": "THAILAND",
+    "region": "PAC"
+  },
+  {
+    "name": "johnqt",
+    "team": "Sentinels",
+    "winnings": "$141,720",
+    "most_played_agents": [
+      "chamber",
+      "viper",
+      "cypher"
+    ],
+    "avg_kda": 1.19,
+    "nationality": "MOROCCO",
+    "region": "AMER"
+  },
+  {
+    "name": "JonahP",
+    "team": "Sentinels",
+    "winnings": "$152,550",
+    "most_played_agents": [
+      "skye",
+      "sova",
+      "kayo"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "kaajak",
+    "team": "FNATIC",
+    "winnings": "$203,791",
+    "most_played_agents": [
+      "jett",
+      "yoru",
+      "raze"
+    ],
+    "avg_kda": 1.24,
+    "nationality": "POLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "kamo",
+    "team": "Team Liquid",
+    "winnings": "$68,998",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "yoru"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "POLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "Karon",
+    "team": "Gen.G",
+    "winnings": "$165,416",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "keiko",
+    "team": "NRG",
+    "winnings": "$184,901",
+    "most_played_agents": [
+      "jett",
+      "omen",
+      "raze"
+    ],
+    "avg_kda": 1.2,
+    "nationality": "UNITED KINGDOM",
+    "region": "AMER"
+  },
+  {
+    "name": "kellyS",
+    "team": "Team Secret",
+    "winnings": "$7,168",
+    "most_played_agents": [
+      "raze",
+      "kayo",
+      "jett"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "PHILIPPINES",
+    "region": "PAC"
+  },
+  {
+    "name": "keznit",
+    "team": "ENVY",
+    "winnings": "$68,870",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "CHILE",
+    "region": "AMER"
+  },
+  {
+    "name": "Kicks",
+    "team": "Team Liquid",
+    "winnings": "$52,336",
+    "most_played_agents": [
+      "skye",
+      "kayo",
+      "omen"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "ESTONIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "Killua",
+    "team": "FULL SENSE",
+    "winnings": "$26,860",
+    "most_played_agents": [
+      "jett",
+      "fade",
+      "sova"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "THAILAND",
+    "region": "PAC"
+  },
+  {
+    "name": "kiNgg",
+    "team": "LEVIATÁN",
+    "winnings": "$200,308",
+    "most_played_agents": [
+      "viper",
+      "raze",
+      "omen"
+    ],
+    "avg_kda": 1.2,
+    "nationality": "CHILE",
+    "region": "AMER"
+  },
+  {
+    "name": "Klaus",
+    "team": "VARREL",
+    "winnings": "$14,749",
+    "most_played_agents": [
+      "cypher",
+      "vyse",
+      "waylay"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "koalanoob",
+    "team": "FURIA",
+    "winnings": "$41,447",
+    "most_played_agents": [
+      "jett",
+      "omen",
+      "chamber"
+    ],
+    "avg_kda": 1.33,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "koshmaras",
+    "team": "Team Heretics",
+    "winnings": "$32,991",
+    "most_played_agents": [
+      "neon",
+      "omen",
+      "yoru"
+    ],
+    "avg_kda": 1.09,
+    "nationality": "LITHUANIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "Kr1stal",
+    "team": "Global Esports",
+    "winnings": "$63,726",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "jett"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "RUSSIA",
+    "region": "PAC"
+  },
+  {
+    "name": "KROSTALY",
+    "team": "FUT Esports",
+    "winnings": "$30,529",
+    "most_played_agents": [
+      "kayo",
+      "sova",
+      "fade"
+    ],
+    "avg_kda": 1.01,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Kushy",
+    "team": "Rex Regum Qeon",
+    "winnings": "$56,631",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "INDONESIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Lar0k",
+    "team": "BBL Esports",
+    "winnings": "$61,663",
+    "most_played_agents": [
+      "breach",
+      "raze",
+      "kayo"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "leaf",
+    "team": "G2 Esports",
+    "winnings": "$225,560",
+    "most_played_agents": [
+      "viper",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Less",
+    "team": "KRÜ Esports",
+    "winnings": "$197,138",
+    "most_played_agents": [
+      "viper",
+      "killjoy",
+      "cypher"
+    ],
+    "avg_kda": 1.2,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "LewN",
+    "team": "Karmine Corp",
+    "winnings": "$63,684",
+    "most_played_agents": [
+      "jett",
+      "neon",
+      "raze"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "LohaN",
+    "team": "Team Liquid",
+    "winnings": "$116",
+    "most_played_agents": [
+      "jett",
+      "omen",
+      "raze"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "PORTUGAL",
+    "region": "EMEA"
+  },
+  {
+    "name": "Loita",
+    "team": "BBL Esports",
+    "winnings": "$61,978",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "lovers rock",
+    "team": "BBL Esports",
+    "winnings": "$51,277",
+    "most_played_agents": [
+      "jett",
+      "yoru",
+      "neon"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "lukxo",
+    "team": "LOUD",
+    "winnings": "$222,520",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "chamber"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "mada",
+    "team": "NRG",
+    "winnings": "$379,672",
+    "most_played_agents": [
+      "raze",
+      "jett",
+      "neon"
+    ],
+    "avg_kda": 1.14,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "MaKo",
+    "team": "KIWOOM DRX",
+    "winnings": "$219,154",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "marteen",
+    "team": "Gentle Mates",
+    "winnings": "$40,056",
+    "most_played_agents": [
+      "yoru",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.27,
+    "nationality": "CZECH REPUBLIC",
+    "region": "EMEA"
+  },
+  {
+    "name": "Marved",
+    "team": "Sentinels",
+    "winnings": "$150,250",
+    "most_played_agents": [
+      "omen",
+      "brimstone",
+      "astra"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "Mazino",
+    "team": "MIBR",
+    "winnings": "$165,270",
+    "most_played_agents": [
+      "omen",
+      "harbor",
+      "sage"
+    ],
+    "avg_kda": 1.02,
+    "nationality": "CHILE",
+    "region": "AMER"
+  },
+  {
+    "name": "Meiy",
+    "team": "DetonatioN FocusMe",
+    "winnings": "$3,036",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "Meteor",
+    "team": "T1",
+    "winnings": "$226,721",
+    "most_played_agents": [
+      "jett",
+      "killjoy",
+      "chamber"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Minny",
+    "team": "Gentle Mates",
+    "winnings": "$38,511",
+    "most_played_agents": [
+      "killjoy",
+      "cypher",
+      "chamber"
+    ],
+    "avg_kda": 1.22,
+    "nationality": "CZECH REPUBLIC",
+    "region": "EMEA"
+  },
+  {
+    "name": "Monyet",
+    "team": "Rex Regum Qeon",
+    "winnings": "$63,461",
+    "most_played_agents": [
+      "omen",
+      "jett",
+      "neon"
+    ],
+    "avg_kda": 1.06,
+    "nationality": "INDONESIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Munchkin",
+    "team": "T1",
+    "winnings": "$232,210",
+    "most_played_agents": [
+      "viper",
+      "kayo",
+      "killjoy"
+    ],
+    "avg_kda": 1.06,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "mwzera",
+    "team": "KRÜ Esports",
+    "winnings": "$25,859",
+    "most_played_agents": [
+      "raze",
+      "sova",
+      "jett"
+    ],
+    "avg_kda": 1.27,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "N4RRATE",
+    "team": "Karmine Corp",
+    "winnings": "$78,950",
+    "most_played_agents": [
+      "fade",
+      "gekko",
+      "raze"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "UNITED STATES",
+    "region": "EMEA"
+  },
+  {
+    "name": "nAts",
+    "team": "Team Liquid",
+    "winnings": "$213,463",
+    "most_played_agents": [
+      "cypher",
+      "viper",
+      "killjoy"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "RUSSIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "natz",
+    "team": "Team Secret",
+    "winnings": "$19,808",
+    "most_played_agents": [
+      "cypher",
+      "omen",
+      "chamber"
+    ],
+    "avg_kda": 1,
+    "nationality": "INDONESIA",
+    "region": "PAC"
+  },
+  {
+    "name": "nekky",
+    "team": "Eternal Fire",
+    "winnings": "$10,607",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "tejo"
+    ],
+    "avg_kda": 0.96,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Neon",
+    "team": "LEVIATÁN",
+    "winnings": "$87,702",
+    "most_played_agents": [
+      "yoru",
+      "jett",
+      "chamber"
+    ],
+    "avg_kda": 1.35,
+    "nationality": "ARGENTINA",
+    "region": "AMER"
+  },
+  {
+    "name": "neT",
+    "team": "GIANTX",
+    "winnings": "$55,455",
+    "most_played_agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "UNITED STATES",
+    "region": "EMEA"
+  },
+  {
+    "name": "nightz",
+    "team": "ENVY",
+    "winnings": "$10,670",
+    "most_played_agents": [
+      "yoru",
+      "omen",
+      "clove"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "NINJA",
+    "team": "PCIFIC Esports",
+    "winnings": "$5,094",
+    "most_played_agents": [
+      "fade",
+      "omen",
+      "sova"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "POLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "oonzmlp",
+    "team": "VARREL",
+    "winnings": "$15,203",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "cypher"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "OXY",
+    "team": "Cloud9",
+    "winnings": "$17,329",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Paincakes",
+    "team": "Evil Geniuses",
+    "winnings": "$16,145",
+    "most_played_agents": [
+      "omen",
+      "sova",
+      "raze"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "PatMen",
+    "team": "Global Esports",
+    "winnings": "$180,229",
+    "most_played_agents": [
+      "fade",
+      "viper",
+      "omen"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "PHILIPPINES",
+    "region": "PAC"
+  },
+  {
+    "name": "primmie",
+    "team": "FULL SENSE",
+    "winnings": "$22,440",
+    "most_played_agents": [
+      "jett",
+      "yoru",
+      "deadlock"
+    ],
+    "avg_kda": 1.28,
+    "nationality": "THAILAND",
+    "region": "PAC"
+  },
+  {
+    "name": "PROFEK",
+    "team": "Team Vitality",
+    "winnings": "$149,750",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "POLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "Proxh",
+    "team": "Gentle Mates",
+    "winnings": "$29,096",
+    "most_played_agents": [
+      "omen",
+      "brimstone",
+      "astra"
+    ],
+    "avg_kda": 1.3,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "purp0",
+    "team": "Team Liquid",
+    "winnings": "$31,155",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "skye"
+    ],
+    "avg_kda": 1.29,
+    "nationality": "RUSSIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "qpert",
+    "team": "PCIFIC Esports",
+    "winnings": "$5,917",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "breach"
+    ],
+    "avg_kda": 0.92,
+    "nationality": "SERBIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "Raxcal",
+    "team": "Gen.G",
+    "winnings": "$4,263",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "sage"
+    ],
+    "avg_kda": 0.99,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Rb",
+    "team": "Nongshim RedForce",
+    "winnings": "$284,592",
+    "most_played_agents": [
+      "jett",
+      "omen",
+      "raze"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "Reduxx",
+    "team": "Sentinels",
+    "winnings": "$19,293",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.22,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "RieNs",
+    "team": "Team Heretics",
+    "winnings": "$300,366",
+    "most_played_agents": [
+      "sova",
+      "breach",
+      "fade"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Rosé",
+    "team": "BBL Esports",
+    "winnings": "$63,605",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "breach"
+    ],
+    "avg_kda": 0.82,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Rossy",
+    "team": "ENVY",
+    "winnings": "$14,400",
+    "most_played_agents": [
+      "viper",
+      "astra",
+      "breach"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Ruxic",
+    "team": "Natus Vincere",
+    "winnings": "$18,821",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "astra"
+    ],
+    "avg_kda": 1.22,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "s0pp",
+    "team": "FUT Esports",
+    "winnings": "$33,527",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "yoru"
+    ],
+    "avg_kda": 1.06,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "saadhak",
+    "team": "KRÜ Esports",
+    "winnings": "$217,919",
+    "most_played_agents": [
+      "kayo",
+      "cypher",
+      "killjoy"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "ARGENTINA",
+    "region": "AMER"
+  },
+  {
+    "name": "Sato",
+    "team": "LEVIATÁN",
+    "winnings": "$92,191",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "phoenix"
+    ],
+    "avg_kda": 1.24,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "Sayonara",
+    "team": "Team Vitality",
+    "winnings": "$119,839",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "viper"
+    ],
+    "avg_kda": 1.27,
+    "nationality": "MOLDOVA, REPUBLIC OF",
+    "region": "EMEA"
+  },
+  {
+    "name": "seph1roth",
+    "team": "FULL SENSE",
+    "winnings": "$19,552",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "jett"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "THAILAND",
+    "region": "PAC"
+  },
+  {
+    "name": "seven",
+    "team": "PCIFIC Esports",
+    "winnings": "$28,385",
+    "most_played_agents": [
+      "jett",
+      "chamber",
+      "killjoy"
+    ],
+    "avg_kda": 1.21,
+    "nationality": "MEXICO",
+    "region": "EMEA"
+  },
+  {
+    "name": "Shyy",
+    "team": "FURIA",
+    "winnings": "$48,300",
+    "most_played_agents": [
+      "killjoy",
+      "cypher",
+      "viper"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "CHILE",
+    "region": "AMER"
+  },
+  {
+    "name": "skuba",
+    "team": "NRG",
+    "winnings": "$372,600",
+    "most_played_agents": [
+      "viper",
+      "astra",
+      "omen"
+    ],
+    "avg_kda": 1.19,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "skye",
+    "team": "Team Secret",
+    "winnings": "$1,977",
+    "most_played_agents": [
+      "omen",
+      "viper",
+      "brimstone"
+    ],
+    "avg_kda": 0.81,
+    "nationality": "SINGAPORE",
+    "region": "PAC"
+  },
+  {
+    "name": "sociablEE",
+    "team": "FUT Esports",
+    "winnings": "$54,921",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "omen"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "something",
+    "team": "Paper Rex",
+    "winnings": "$371,694",
+    "most_played_agents": [
+      "jett",
+      "yoru",
+      "reyna"
+    ],
+    "avg_kda": 1.32,
+    "nationality": "RUSSIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Spear",
+    "team": "Eternal Fire",
+    "winnings": "$4,624",
+    "most_played_agents": [
+      "cypher",
+      "viper",
+      "neon"
+    ],
+    "avg_kda": 1.14,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "spike",
+    "team": "LEVIATÁN",
+    "winnings": "$89,079",
+    "most_played_agents": [
+      "neon",
+      "kayo",
+      "gekko"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "SSeeS",
+    "team": "DetonatioN FocusMe",
+    "winnings": "$0",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 0.85,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "starxo",
+    "team": "Gentle Mates",
+    "winnings": "$134,014",
+    "most_played_agents": [
+      "skye",
+      "sova",
+      "fade"
+    ],
+    "avg_kda": 1.03,
+    "nationality": "POLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "stax",
+    "team": "T1",
+    "winnings": "$242,120",
+    "most_played_agents": [
+      "breach",
+      "skye",
+      "kayo"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "STYRON",
+    "team": "Team Secret",
+    "winnings": "$29,512",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "SINGAPORE",
+    "region": "PAC"
+  },
+  {
+    "name": "SugarZ3ro",
+    "team": "ZETA DIVISION",
+    "winnings": "$33,904",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.05,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "supamen",
+    "team": "Evil Geniuses",
+    "winnings": "$12,800",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.01,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "SUYGETSU",
+    "team": "Karmine Corp",
+    "winnings": "$155,944",
+    "most_played_agents": [
+      "cypher",
+      "viper",
+      "killjoy"
+    ],
+    "avg_kda": 1.19,
+    "nationality": "INTERNATIONAL",
+    "region": "EMEA"
+  },
+  {
+    "name": "Sylvan",
+    "team": "Team Secret",
+    "winnings": "$65,738",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "brimstone"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "SyouTa",
+    "team": "ZETA DIVISION",
+    "winnings": "$8,791",
+    "most_played_agents": [
+      "astra",
+      "viper",
+      "cypher"
+    ],
+    "avg_kda": 1.13,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "t3xture",
+    "team": "Gen.G",
+    "winnings": "$176,413",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.16,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "tex",
+    "team": "MIBR",
+    "winnings": "$136,475",
+    "most_played_agents": [
+      "jett",
+      "cypher",
+      "raze"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "GERMANY",
+    "region": "AMER"
+  },
+  {
+    "name": "Timotino",
+    "team": "100 Thieves",
+    "winnings": "$201,909",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.23,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "tkzin",
+    "team": "LOUD",
+    "winnings": "$217,401",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.1,
+    "nationality": "BRAZIL",
+    "region": "AMER"
+  },
+  {
+    "name": "trent",
+    "team": "G2 Esports",
+    "winnings": "$227,846",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "trexx",
+    "team": "Team Liquid",
+    "winnings": "$90,026",
+    "most_played_agents": [
+      "raze",
+      "sova",
+      "fade"
+    ],
+    "avg_kda": 1.24,
+    "nationality": "RUSSIA",
+    "region": "EMEA"
+  },
+  {
+    "name": "UdoTan",
+    "team": "Global Esports",
+    "winnings": "$45,591",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "neon"
+    ],
+    "avg_kda": 1.06,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "v1c",
+    "team": "Cloud9",
+    "winnings": "$21,247",
+    "most_played_agents": [
+      "omen",
+      "brimstone",
+      "kayo"
+    ],
+    "avg_kda": 1.18,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "valyn",
+    "team": "G2 Esports",
+    "winnings": "$230,436",
+    "most_played_agents": [
+      "omen",
+      "astra",
+      "viper"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Verno",
+    "team": "MIBR",
+    "winnings": "$61,325",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "avg_kda": 1.24,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "vora",
+    "team": "100 Thieves",
+    "winnings": "$201,490",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "skye"
+    ],
+    "avg_kda": 1.07,
+    "nationality": "CANADA",
+    "region": "AMER"
+  },
+  {
+    "name": "waddle",
+    "team": "PCIFIC Esports",
+    "winnings": "$13,456",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "sage"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "UNITED KINGDOM",
+    "region": "EMEA"
+  },
+  {
+    "name": "westside",
+    "team": "GIANTX",
+    "winnings": "$34,459",
+    "most_played_agents": [
+      "cypher",
+      "killjoy",
+      "jett"
+    ],
+    "avg_kda": 1.06,
+    "nationality": "POLAND",
+    "region": "EMEA"
+  },
+  {
+    "name": "Wo0t",
+    "team": "Team Heretics",
+    "winnings": "$299,296",
+    "most_played_agents": [
+      "jett",
+      "raze",
+      "viper"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "Xan",
+    "team": "Rex Regum Qeon",
+    "winnings": "$17,697",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "MALAYSIA",
+    "region": "PAC"
+  },
+  {
+    "name": "xavi8k",
+    "team": "Global Esports",
+    "winnings": "$56,735",
+    "most_played_agents": [
+      "sova",
+      "breach",
+      "raze"
+    ],
+    "avg_kda": 1.11,
+    "nationality": "PHILIPPINES",
+    "region": "PAC"
+  },
+  {
+    "name": "Xdll",
+    "team": "ZETA DIVISION",
+    "winnings": "$12,454",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "sage"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "xeus",
+    "team": "FUT Esports",
+    "winnings": "$34,097",
+    "most_played_agents": [
+      "raze",
+      "jett",
+      "waylay"
+    ],
+    "avg_kda": 1.15,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "xffero",
+    "team": "Rex Regum Qeon",
+    "winnings": "$62,678",
+    "most_played_agents": [
+      "viper",
+      "astra",
+      "cypher"
+    ],
+    "avg_kda": 1.08,
+    "nationality": "INDONESIA",
+    "region": "PAC"
+  },
+  {
+    "name": "Xross",
+    "team": "Nongshim RedForce",
+    "winnings": "$148,378",
+    "most_played_agents": [
+      "fade",
+      "sova",
+      "yoru"
+    ],
+    "avg_kda": 1.17,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "XuNa",
+    "team": "VARREL",
+    "winnings": "$14,749",
+    "most_played_agents": [
+      "sova",
+      "fade",
+      "tejo"
+    ],
+    "avg_kda": 1.09,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "yatsuka",
+    "team": "DetonatioN FocusMe",
+    "winnings": "$14,017",
+    "most_played_agents": [
+      "sova",
+      "yoru",
+      "breach"
+    ],
+    "avg_kda": 1.04,
+    "nationality": "JAPAN",
+    "region": "PAC"
+  },
+  {
+    "name": "yetujey",
+    "team": "FUT Esports",
+    "winnings": "$58,418",
+    "most_played_agents": [
+      "cypher",
+      "killjoy",
+      "viper"
+    ],
+    "avg_kda": 1.12,
+    "nationality": "TüRKIYE",
+    "region": "EMEA"
+  },
+  {
+    "name": "yong",
+    "team": "KIWOOM DRX",
+    "winnings": "$1,633",
+    "most_played_agents": [
+      "omen",
+      "cypher",
+      "neon"
+    ],
+    "avg_kda": 0.96,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  },
+  {
+    "name": "zekken",
+    "team": "MIBR",
+    "winnings": "$187,253",
+    "most_played_agents": [
+      "raze",
+      "sova",
+      "neon"
+    ],
+    "avg_kda": 1.27,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Zellsis",
+    "team": "Cloud9",
+    "winnings": "$152,775",
+    "most_played_agents": [
+      "kayo",
+      "killjoy",
+      "viper"
+    ],
+    "avg_kda": 1.02,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "zerona",
+    "team": "Evil Geniuses",
+    "winnings": "$2,810",
+    "most_played_agents": [
+      "sova",
+      "viper",
+      "skye"
+    ],
+    "avg_kda": 1.14,
+    "nationality": "UNITED STATES",
+    "region": "AMER"
+  },
+  {
+    "name": "Zeus",
+    "team": "Team Secret",
+    "winnings": "$2,534",
+    "most_played_agents": [
+      "neon",
+      "jett",
+      "raze"
+    ],
+    "avg_kda": 1.25,
+    "nationality": "PHILIPPINES",
+    "region": "PAC"
+  },
+  {
+    "name": "Zexy",
+    "team": "VARREL",
+    "winnings": "$14,749",
+    "most_played_agents": [
+      "jett",
+      "neon",
+      "raze"
+    ],
+    "avg_kda": 1.03,
+    "nationality": "SOUTH KOREA",
+    "region": "PAC"
+  }
+]

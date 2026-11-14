@@ -6,7 +6,7 @@ const regions = {
 }
 
 
-function RegionBanner({image='', region='', checked=false, onChange}) {
+function RegionBanner({image='', region='', checked=false, onChange, disabled=false}) {
   const info = regions[region]
   if (!info) {
     console.error(`Invalid region: ${region}`)
@@ -17,17 +17,16 @@ function RegionBanner({image='', region='', checked=false, onChange}) {
 
   return (
     <>
-        {/* add color to class */}
-        <div className={`center banner ${bgColor} ${WIP ?? ""} ${font} ${checked ? 'check-banner' : ''}`}> 
-            {/* add label and image to checkbox */}
-            <input 
-              type="checkbox" 
-              id={region} name={region} 
-              className={`remove-checkbox`}
+        <div className={`center banner ${bgColor} ${WIP ?? ""} ${font} ${checked ? 'check-banner' : ''}`}>
+            <input
+              type="checkbox"
+              id={region} name={region}
+              className={`remove-checkbox ${disabled ? 'cursor-not-allowed' : ''}`}
               checked={checked}
-              onChange={(e) => onChange(e.target.checked)}>
+              disabled={disabled}
+              onChange={(e) => onChange?.(e.target.checked)}>
             </input>
-            <label htmlFor={region} className={`absolute center col-container p-0 gap-[20px] banner-text cursor-pointer`}>
+            <label htmlFor={region} className={`absolute center col-container p-0 gap-[20px] banner-text ${disabled ? 'cursor-not-allowed' : 'cursor-pointer'}`}>
                 <img src={image} className="region-logo"></img>
                 {label}
             </label>

@@ -1,38 +1,40 @@
-import { useState } from 'react'
-import { Link } from 'react-router-dom'
-import allLogo from '../../assets/img/all-logo.svg'
+import { useNavigate } from 'react-router-dom'
+import allLogo from '../../assets/img/valorant/region/all-logo.svg'
+import { regionsToSlug } from '../../data/regions'
 
-function SettingSubmission( selectedRegions ) {
-  // created for now to track
-  const [gameNumber, setGameNumber] = useState(0)
+function SettingSubmission({ selectedRegions = [] }) {
+  const navigate = useNavigate()
+  const canSubmit = selectedRegions.length > 0
 
-  function nextGame() {
-    setGameNumber(prev => prev + 1)
-  }
-  
-  let route = ''
-  const regions = Object.keys(selectedRegions.selectedRegions).filter(region => selectedRegions.selectedRegions[region])
-  if(regions.length === 3) {
-    route = 'global'
-  }
-  else {
-    route = regions.join('-')
+  function submit() {
+    if (!canSubmit) return
+    navigate(`/prodle/valorant/${regionsToSlug(selectedRegions)}`)
   }
 
   return (
     <>
       <div className="col-container items-center h-[90vh] pt-[15vh] justify-between">
-        <Link to={`global`} className="global-logo m-[10px]">
-          <img src={allLogo} alt="Global Logo"/>
-        </Link>
+        <button
+          type="button"
+          onClick={() => navigate('/prodle/valorant/global')}
+          title="Play with every region"
+          className="global-logo m-[10px] cursor-pointer opacity-80 hover:opacity-100 transition-opacity"
+        >
+          <img src={allLogo} alt="Play with every region"/>
+        </button>
 
-        <Link to={route} type="submit" className="w-full h-fit parrallel-container bg-valorant-red p-[5px] pt-[8px] m-[10px]">
+        <button
+          type="button"
+          onClick={submit}
+          disabled={!canSubmit}
+          className={`w-full h-fit parrallel-container bg-valorant-red p-[5px] pt-[8px] m-[10px] ${canSubmit ? 'cursor-pointer' : 'opacity-50 cursor-not-allowed'}`}
+        >
           <span className="font-val text-2xl parrallel-text">
             Play Game
           </span>
-        </Link>
+        </button>
       </div>
-    </> 
+    </>
   )
 }
 
