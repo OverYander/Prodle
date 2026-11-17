@@ -8,7 +8,7 @@ function SettingSubmission({ selectedRegions = [] }) {
 
   function submit() {
     if (!canSubmit) return
-    navigate(`/prodle/valorant/${regionsToSlug(selectedRegions)}`)
+    navigate(`/valorant/${regionsToSlug(selectedRegions)}`)
   }
 
   return (
