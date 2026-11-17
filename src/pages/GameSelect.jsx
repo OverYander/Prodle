@@ -6,7 +6,6 @@ function GameSelectPage() {
   return (
     <>
       <MainLayout orientation="horizontal">
-        <UserLogin/>
         <GameSelectMenu/>
       </MainLayout>
     </>

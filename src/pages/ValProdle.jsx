@@ -85,7 +85,7 @@ function ValProdleGame({ regionCodes, pool, dailyAnswer }) {
                 ) : (
                   <>
                     <PlayerSearch
-                      players={players}
+                      players={pool}
                       guessedNames={guesses.map(g => g.name)}
                       onGuess={guess}
                       disabled={won}
