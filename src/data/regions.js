@@ -7,7 +7,7 @@ export const REGION_CODES = {
 
 export const AVAILABLE_REGIONS = Object.keys(REGION_CODES)
 
-// Turns the selected setup checkboxes into the /prodle/valorant/<regions> slug.
+// Turns the selected setup checkboxes into the /valorant/<regions> slug.
 export function regionsToSlug(selected) {
   if (AVAILABLE_REGIONS.every(r => selected.includes(r))) return 'global'
   return AVAILABLE_REGIONS.filter(r => selected.includes(r)).join('-')

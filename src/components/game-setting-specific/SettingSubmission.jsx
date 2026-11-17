@@ -16,7 +16,7 @@ function SettingSubmission({ selectedRegions = [] }) {
       <div className="col-container items-center h-[90vh] pt-[15vh] justify-between">
         <button
           type="button"
-          onClick={() => navigate('/prodle/valorant/global')}
+          onClick={() => navigate('/valorant/global')}
           title="Play with every region"
           className="global-logo m-[10px] cursor-pointer opacity-80 hover:opacity-100 transition-opacity"
         >

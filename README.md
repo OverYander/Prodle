@@ -3,7 +3,7 @@
 A Wordle-style guessing game for esports pros. Valorant is playable; League and Apex are placeholders.
 
 Pick regions on `/valorant/setup` (or hit **All** for every region), then guess the day's pro player
-at `/prodle/valorant/<regions>`. Each guess is compared on team, winnings, top agents, K/D and region.
+at `/valorant/<regions>`. Each guess is compared on team, winnings, top agents, K/D and region.
 
 ## Running it
 

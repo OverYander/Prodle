@@ -35,7 +35,7 @@ function ValProdle() {
 
   // Normalise e.g. "pac-amer" -> "amer-pac" so everyone choosing the same regions gets the same daily player.
   const slug = regionsToSlug(regions)
-  if (slug !== rawSlug) return <Navigate to={`/prodle/valorant/${slug}`} replace/>
+  if (slug !== rawSlug) return <Navigate to={`/valorant/${slug}`} replace/>
 
   const regionCodes = regions.map(r => REGION_CODES[r])
   const pool = players.filter(p => regionCodes.includes(p.region))

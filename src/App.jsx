@@ -26,7 +26,7 @@ function App() {
         <Route path="/" element={<GameSelectPage />} />
         <Route element={<WithProfileButton />}>
           <Route path="/valorant/setup" element={<ValGameSettings />} />
-          <Route path="/prodle/valorant/:regions" element={<ValProdle />} />
+          <Route path="/valorant/:regions" element={<ValProdle />} />
         </Route>
       </Routes>
     </BrowserRouter>
