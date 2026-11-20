@@ -10,8 +10,7 @@ function PlayerSearch({ players = [], guessedNames = [], onGuess, disabled = fal
   const matches = q
     ? players
         .filter(p => !guessedNames.includes(p.name))
-        .filter(p => p.name.toLowerCase().includes(q) || p.team?.toLowerCase().includes(q))
-        .sort((a, b) => Number(!a.name.toLowerCase().startsWith(q)) - Number(!b.name.toLowerCase().startsWith(q)))
+        .filter(p => p.name.toLowerCase().startsWith(q))
         .slice(0, MAX_RESULTS)
     : []
 

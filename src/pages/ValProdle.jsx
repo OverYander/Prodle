@@ -9,6 +9,7 @@ import GuessRow from '../components/game-specific/GuessRow'
 import players from '../data/players.json'
 import { REGION_CODES, slugToRegions, regionsToSlug, easternDate } from '../data/regions'
 import { compareGuess } from '../data/compareGuess'
+import { loadGuessNames, saveGuessNames } from '../data/savedGuesses'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
@@ -45,6 +46,8 @@ function ValProdle() {
   return (
     <ValProdleGame
       key={`${slug}-${date}`}
+      slug={slug}
+      date={date}
       regionCodes={regionCodes}
       pool={pool}
       dailyAnswer={dailyAnswer}
@@ -52,19 +55,29 @@ function ValProdle() {
   )
 }
 
-function ValProdleGame({ regionCodes, pool, dailyAnswer }) {
+// Today's saved daily guesses for this slug, turned back into player objects (unknown names dropped).
+function restoreGuesses(slug, date, pool) {
+  const byName = new Map(pool.map(p => [p.name, p]))
+  return loadGuessNames(slug, date).map(name => byName.get(name)).filter(Boolean)
+}
+
+function ValProdleGame({ slug, date, regionCodes, pool, dailyAnswer }) {
+  const [isDaily, setIsDaily] = useState(Boolean(dailyAnswer))
   const [answer, setAnswer] = useState(() => dailyAnswer ?? pickRandom(pool))
-  const [guesses, setGuesses] = useState([])
-  const isDaily = Boolean(dailyAnswer) && answer === dailyAnswer
+  const [guesses, setGuesses] = useState(() => (dailyAnswer ? restoreGuesses(slug, date, pool) : []))
 
   const won = guesses.some(g => g.name === answer?.name)
 
   function guess(player) {
     if (won) return
-    setGuesses(prev => [player, ...prev])
+    const next = [player, ...guesses]
+    setGuesses(next)
+    if (isDaily) saveGuessNames(slug, date, next.map(g => g.name))
   }
 
+  // Practice games aren't saved, so the daily board is still there after a refresh.
   function practice() {
+    setIsDaily(false)
     setAnswer(pickRandom(pool))
     setGuesses([])
   }
