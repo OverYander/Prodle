@@ -2,6 +2,10 @@
   {
     "name": "aaaay",
     "team": "FunPlus Phoenix",
+    "past_teams": [
+      "FunPlus Phoenix ZHUQUE",
+      "Totoro Gaming"
+    ],
     "winnings": 24406,
     "most_played_agents": [
       "skye",
@@ -9,12 +13,19 @@
       "fade"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.28,
+    "acs": 207,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "absol",
     "team": "ZETA DIVISION",
+    "past_teams": [
+      "ZETA DIVISION",
+      "Murash Gaming",
+      "DetoNator Academy"
+    ],
     "winnings": 4989,
     "most_played_agents": [
       "neon",
@@ -22,12 +33,22 @@
       "yoru"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.2,
+    "acs": 220,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "akame",
     "team": null,
+    "past_teams": [
+      "DetonatioN FocusMe",
+      "REJECT",
+      "Jadeite",
+      "K2 esports",
+      "Alpha Six Gaming",
+      "Food Eat"
+    ],
     "winnings": 4834,
     "most_played_agents": [
       "sova",
@@ -35,12 +56,18 @@
       "raze"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.33,
+    "acs": 216,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "akeman",
     "team": "KeepBest Gaming",
+    "past_teams": [
+      "Dragon Ranger Gaming",
+      "I am here"
+    ],
     "winnings": 4000,
     "most_played_agents": [
       "neon",
@@ -48,12 +75,29 @@
       "clove"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.23,
+    "acs": 210,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "al0rante",
     "team": "Joblife",
+    "past_teams": [
+      "Germany",
+      "PCIFIC Esports",
+      "3BL Esports",
+      "FOKUS",
+      "Team Germany",
+      "MOUZ",
+      "MMix",
+      "Team Heretics",
+      "volvo peek",
+      "peanutz",
+      "The Alchemists",
+      "Cool Guys",
+      "Team 23"
+    ],
     "winnings": 7477,
     "most_played_agents": [
       "cypher",
@@ -61,12 +105,19 @@
       "raze"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.18,
+    "acs": 229,
     "nationality": "GERMANY",
     "region": "EMEA"
   },
   {
     "name": "alfajer",
     "team": null,
+    "past_teams": [
+      "Türkiye",
+      "FNATIC",
+      "Surreal Esports"
+    ],
     "winnings": 411618,
     "most_played_agents": [
       "killjoy",
@@ -74,12 +125,21 @@
       "cypher"
     ],
     "avg_kda": 1.23,
+    "assists_per_round": 0.17,
+    "acs": 232,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "aluba",
     "team": "Wolves Esports",
+    "past_teams": [
+      "Ambitious Legend Gaming",
+      "Wolves Esports",
+      "Monarch Effect",
+      "O2 Gaming",
+      "Invictus Gaming Academy"
+    ],
     "winnings": 125,
     "most_played_agents": [
       "viper",
@@ -87,12 +147,29 @@
       "cypher"
     ],
     "avg_kda": 1.02,
+    "assists_per_round": 0.25,
+    "acs": 207,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "ara",
     "team": null,
+    "past_teams": [
+      "GIANTX",
+      "UCAM Esports Club",
+      "Bitfix Gaming",
+      "NXT",
+      "Origami Team",
+      "MANGO",
+      "meowmeow",
+      "eSports Cologne",
+      "Wave Esports Academy",
+      "KTRL",
+      "The Paw Brothers",
+      "PointAndClick",
+      "Nexus Gaming"
+    ],
     "winnings": 28131,
     "most_played_agents": [
       "jett",
@@ -100,12 +177,25 @@
       "neon"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.16,
+    "acs": 237,
     "nationality": "ROMANIA",
     "region": "EMEA"
   },
   {
     "name": "artzin",
     "team": null,
+    "past_teams": [
+      "Brazil",
+      "FURIA",
+      "MIBR",
+      "00Nation",
+      "Stars Horizon",
+      "Tropa do Fundamental",
+      "Supremacyy",
+      "Azul",
+      "TLS eSports"
+    ],
     "winnings": 35150,
     "most_played_agents": [
       "jett",
@@ -113,12 +203,24 @@
       "raze"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.25,
+    "acs": 225,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "ash",
     "team": null,
+    "past_teams": [
+      "Gen.G",
+      "Gen.G Global Academy",
+      "FEARX",
+      "LFG Portal",
+      "Incheon On Sla2ers",
+      "OP.GG SPORTS",
+      "All Ways Incheon",
+      "INS4NE"
+    ],
     "winnings": 44848,
     "most_played_agents": [
       "neon",
@@ -126,12 +228,22 @@
       "raze"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.19,
+    "acs": 232,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "aspas",
     "team": "MIBR",
+    "past_teams": [
+      "Brazil",
+      "LEVIATÁN",
+      "LOUD",
+      "Pancada e Amigos",
+      "SLICK",
+      "favela aimers"
+    ],
     "winnings": 308282,
     "most_played_agents": [
       "jett",
@@ -139,12 +251,18 @@
       "reyna"
     ],
     "avg_kda": 1.36,
+    "assists_per_round": 0.17,
+    "acs": 247,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "asuna",
     "team": "100 Thieves",
+    "past_teams": [
+      "100 Thieves",
+      "Immortals"
+    ],
     "winnings": 282630,
     "most_played_agents": [
       "raze",
@@ -152,12 +270,20 @@
       "kayo"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.35,
+    "acs": 238,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "audaz",
     "team": null,
+    "past_teams": [
+      "Eternal Fire",
+      "ULF Esports",
+      "Digital Athletics",
+      "There is no tomorrow"
+    ],
     "winnings": 10661,
     "most_played_agents": [
       "omen",
@@ -165,12 +291,27 @@
       "brimstone"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.36,
+    "acs": 188,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "autumn",
     "team": null,
+    "past_teams": [
+      "Australia",
+      "Global Esports",
+      "FunPlus Phoenix",
+      "Gods Reign",
+      "Generation of Miracles",
+      "HONEY BADGERS",
+      "Catgirls",
+      "ORDER",
+      "Ground Zero",
+      "unnamed",
+      "God Squad"
+    ],
     "winnings": 74119,
     "most_played_agents": [
       "jett",
@@ -178,12 +319,23 @@
       "yoru"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.17,
+    "acs": 224,
     "nationality": "AUSTRALIA",
     "region": "PAC"
   },
   {
     "name": "avez",
     "team": "Karmine Corp",
+    "past_teams": [
+      "Egypt",
+      "NASR Esports",
+      "Team RA'AD",
+      "Orgless22",
+      "bref",
+      "Anubis Gaming",
+      "Cairo City G'zzz"
+    ],
     "winnings": 64226,
     "most_played_agents": [
       "raze",
@@ -191,12 +343,19 @@
       "jett"
     ],
     "avg_kda": 1.26,
+    "assists_per_round": 0.24,
+    "acs": 247,
     "nationality": "EGYPT",
     "region": "EMEA"
   },
   {
     "name": "babybay",
     "team": null,
+    "past_teams": [
+      "G2 Esports",
+      "Team BABYBAY",
+      "FaZe Clan"
+    ],
     "winnings": 101650,
     "most_played_agents": [
       "jett",
@@ -204,12 +363,19 @@
       "vyse"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.21,
+    "acs": 239,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "bai",
     "team": "Young Gaming",
+    "past_teams": [
+      "All Gamers",
+      "LANDODGERS",
+      "loan"
+    ],
     "winnings": 13887,
     "most_played_agents": [
       "neon",
@@ -217,12 +383,23 @@
       "viper"
     ],
     "avg_kda": 0.9,
+    "assists_per_round": 0.22,
+    "acs": 187,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "bang",
     "team": "100 Thieves",
+    "past_teams": [
+      "Sentinels",
+      "Team tarik",
+      "100 Thieves",
+      "TSM",
+      "On The Way",
+      "Serenity",
+      "Phoenix1"
+    ],
     "winnings": 279780,
     "most_played_agents": [
       "omen",
@@ -230,12 +407,23 @@
       "astra"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.34,
+    "acs": 197,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "bao",
     "team": null,
+    "past_teams": [
+      "Evil Geniuses",
+      "SaD Esports",
+      "Chet's Pets",
+      "M80",
+      "Trust In Plug",
+      "Lemonade Stand",
+      "Snow Fall"
+    ],
     "winnings": 4988,
     "most_played_agents": [
       "viper",
@@ -243,12 +431,22 @@
       "omen"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.3,
+    "acs": 205,
     "nationality": "VIETNAM",
     "region": "AMER"
   },
   {
     "name": "basic",
     "team": null,
+    "past_teams": [
+      "FURIA",
+      "2Game Academy",
+      "Grêmio Esports",
+      "DELIRA",
+      "NIGERIA 96",
+      "JNS Gaming"
+    ],
     "winnings": 1283,
     "most_played_agents": [
       "breach",
@@ -256,12 +454,20 @@
       "omen"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.48,
+    "acs": 203,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "benjyfishy",
     "team": "Team Heretics",
+    "past_teams": [
+      "Great Britain",
+      "Enterprise Esports",
+      "Team United Kingdom",
+      "Dragonslayerzzz"
+    ],
     "winnings": 300710,
     "most_played_agents": [
       "cypher",
@@ -269,12 +475,22 @@
       "viper"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.19,
+    "acs": 196,
     "nationality": "UNITED KINGDOM",
     "region": "EMEA"
   },
   {
     "name": "berlin",
     "team": "JD Gaming",
+    "past_teams": [
+      "FunPlus Phoenix",
+      "FunPlus Phoenix ZHUQUE",
+      "CBT Gaming",
+      "KPC Computer Studio",
+      "Looking For Sponsor",
+      "Five Ace Esports"
+    ],
     "winnings": 46867,
     "most_played_agents": [
       "fade",
@@ -282,12 +498,27 @@
       "sova"
     ],
     "avg_kda": 0.91,
+    "assists_per_round": 0.35,
+    "acs": 186,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "beyn",
     "team": null,
+    "past_teams": [
+      "DRX Spotlight",
+      "KIWOOM DRX",
+      "All Gamers",
+      "DRX Academy",
+      "Maru Gaming",
+      "F4Q",
+      "trial",
+      "Vision Strikers",
+      "VVS",
+      "Saviors",
+      "CoreNine Academy"
+    ],
     "winnings": 122551,
     "most_played_agents": [
       "sova",
@@ -295,12 +526,22 @@
       "jett"
     ],
     "avg_kda": 1.03,
+    "assists_per_round": 0.24,
+    "acs": 196,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "bipo",
     "team": "Gentle Mates",
+    "past_teams": [
+      "MOUZ",
+      "Team Italy",
+      "NOVO Esports",
+      "GMT Esports",
+      "Angry Titans",
+      "DSYRE"
+    ],
     "winnings": 34628,
     "most_played_agents": [
       "jett",
@@ -308,12 +549,23 @@
       "raze"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.17,
+    "acs": 233,
     "nationality": "ITALY",
     "region": "EMEA"
   },
   {
     "name": "blowz",
     "team": "LEVIATÁN",
+    "past_teams": [
+      "LEVIATÁN Academy",
+      "THE 7",
+      "OLIMPO",
+      "OS CARA CEGO",
+      "New GeneratioN",
+      "FRAFLU",
+      "blowzin e amigos"
+    ],
     "winnings": 87845,
     "most_played_agents": [
       "sova",
@@ -321,12 +573,20 @@
       "skye"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.34,
+    "acs": 187,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "boaster",
     "team": null,
+    "past_teams": [
+      "FNATIC",
+      "SUMN FC",
+      "Carpet Cleaners",
+      "Absolute Legends"
+    ],
     "winnings": 457684,
     "most_played_agents": [
       "omen",
@@ -334,12 +594,24 @@
       "brimstone"
     ],
     "avg_kda": 0.88,
+    "assists_per_round": 0.38,
+    "acs": 165,
     "nationality": "UNITED KINGDOM",
     "region": "EMEA"
   },
   {
     "name": "boo",
     "team": "Aurora Gaming",
+    "past_teams": [
+      "Lithuania",
+      "Team Heretics",
+      "OG LDN UTD",
+      "LDN UTD",
+      "Gydom Galva",
+      "Giants Gaming",
+      "Orgless",
+      "nolpenki"
+    ],
     "winnings": 314559,
     "most_played_agents": [
       "omen",
@@ -347,12 +619,30 @@
       "viper"
     ],
     "avg_kda": 1.02,
+    "assists_per_round": 0.37,
+    "acs": 184,
     "nationality": "LITHUANIA",
     "region": "EMEA"
   },
   {
     "name": "brawk",
     "team": "Sentinels",
+    "past_teams": [
+      "NRG",
+      "Shopify Rebellion Black",
+      "Moist x Shopify",
+      "Moist Moguls",
+      "BreakThru",
+      "Ghostbusters",
+      "Ghost Gaming",
+      "Complexity",
+      "trial",
+      "Frail Males",
+      "On The Way",
+      "PUGSTARS",
+      "Serenity",
+      "Lemonade Stand"
+    ],
     "winnings": 373448,
     "most_played_agents": [
       "sova",
@@ -360,12 +650,25 @@
       "breach"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.38,
+    "acs": 209,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "buzz",
     "team": "T1",
+    "past_teams": [
+      "South Korea",
+      "T1 Spotlight",
+      "KIWOOM DRX",
+      "Vision Strikers",
+      "Rio Company",
+      "MUYAHO",
+      "BearClaw Gaming",
+      "Cloud9 Korea",
+      "MaD"
+    ],
     "winnings": 247959,
     "most_played_agents": [
       "jett",
@@ -373,12 +676,25 @@
       "neon"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.19,
+    "acs": 237,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "c0m",
     "team": null,
+    "past_teams": [
+      "FURIA",
+      "Evil Geniuses",
+      "LEVIATÁN",
+      "Akrew",
+      "ez5",
+      "Frail Males",
+      "Squirtle Squad",
+      "On The Way",
+      "Complexity"
+    ],
     "winnings": 340775,
     "most_played_agents": [
       "sova",
@@ -386,12 +702,26 @@
       "cypher"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.3,
+    "acs": 196,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "c1nder",
     "team": null,
+    "past_teams": [
+      "VARREL",
+      "SLT Seongnam",
+      "REIGNITE",
+      "Good 8 Squad",
+      "Wyvern",
+      "SCARZ",
+      "Hamtories",
+      "Hamtori ZunDeZinx",
+      "Crazy Hamster",
+      "MaD"
+    ],
     "winnings": 11544,
     "most_played_agents": [
       "omen",
@@ -399,12 +729,21 @@
       "breach"
     ],
     "avg_kda": 0.94,
+    "assists_per_round": 0.36,
+    "acs": 180,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "caedye",
     "team": "Murash Gaming",
+    "past_teams": [
+      "Japan",
+      "DetonatioN FocusMe",
+      "RIDDLE ORDER",
+      "ZETA DIVISION",
+      "ZETA DIVISION Academy"
+    ],
     "winnings": 14017,
     "most_played_agents": [
       "viper",
@@ -412,12 +751,18 @@
       "raze"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.23,
+    "acs": 216,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "cb",
     "team": "Nova Esports",
+    "past_teams": [
+      "EDward Gaming",
+      "Nova Esports"
+    ],
     "winnings": 9251,
     "most_played_agents": [
       "sova",
@@ -425,12 +770,18 @@
       "skye"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.33,
+    "acs": 210,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "chichoo",
     "team": null,
+    "past_teams": [
+      "China",
+      "EDward Gaming"
+    ],
     "winnings": 316796,
     "most_played_agents": [
       "viper",
@@ -438,12 +789,25 @@
       "cypher"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.23,
+    "acs": 200,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "chloric",
     "team": null,
+    "past_teams": [
+      "Natus Vincere",
+      "NRG Academy",
+      "Friends Over Everything",
+      "Maryville University",
+      "Lucky 7",
+      "Joker",
+      "Fisher Navy",
+      "Levitate",
+      "Eclectiq"
+    ],
     "winnings": 12335,
     "most_played_agents": [
       "sova",
@@ -451,12 +815,20 @@
       "kayo"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.35,
+    "acs": 220,
     "nationality": "UNITED STATES",
     "region": "EMEA"
   },
   {
     "name": "chronicle",
     "team": "Team Vitality",
+    "past_teams": [
+      "FNATIC",
+      "M3 Champions",
+      "Gambit Esports",
+      "FishkaVTom"
+    ],
     "winnings": 599629,
     "most_played_agents": [
       "viper",
@@ -464,12 +836,22 @@
       "breach"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.34,
+    "acs": 217,
     "nationality": "RUSSIA",
     "region": "EMEA"
   },
   {
     "name": "cloud",
     "team": "FNATIC",
+    "past_teams": [
+      "GIANTX",
+      "Giants Gaming",
+      "No Pressure",
+      "Natus Vincere",
+      "HONK",
+      "CrowСrowd"
+    ],
     "winnings": 54440,
     "most_played_agents": [
       "sova",
@@ -477,12 +859,17 @@
       "fade"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.3,
+    "acs": 219,
     "nationality": "RUSSIA",
     "region": "EMEA"
   },
   {
     "name": "coco",
     "team": "Titan Esports Club",
+    "past_teams": [
+      "Chosen Clique Gaming"
+    ],
     "winnings": 4479,
     "most_played_agents": [
       "viper",
@@ -490,12 +877,22 @@
       "breach"
     ],
     "avg_kda": 1,
+    "assists_per_round": 0.36,
+    "acs": 200,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "coconut",
     "team": "FunPlus Phoenix",
+    "past_teams": [
+      "Hong Kong",
+      "JD Gaming",
+      "Xi Lai Gaming",
+      "LGD Gaming",
+      "Oblivion Force",
+      "Lightning"
+    ],
     "winnings": 22912,
     "most_played_agents": [
       "sova",
@@ -503,12 +900,26 @@
       "fade"
     ],
     "avg_kda": 0.99,
+    "assists_per_round": 0.3,
+    "acs": 185,
     "nationality": "HONG KONG",
     "region": "CN"
   },
   {
     "name": "cortezia",
     "team": null,
+    "past_teams": [
+      "Sentinels",
+      "MIBR",
+      "RED Canids",
+      "TropiCaos",
+      "Team Brave Soldiers",
+      "Without Org",
+      "Inflames Gaming",
+      "Mark Five",
+      "Bimbonkers",
+      "Vim do cs e apanhei"
+    ],
     "winnings": 31792,
     "most_played_agents": [
       "omen",
@@ -516,12 +927,21 @@
       "brimstone"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.37,
+    "acs": 218,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "crashies",
     "team": "T1",
+    "past_teams": [
+      "FNATIC",
+      "NRG",
+      "OpTic Gaming",
+      "ENVY",
+      "T1"
+    ],
     "winnings": 380650,
     "most_played_agents": [
       "sova",
@@ -529,12 +949,24 @@
       "fade"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.33,
+    "acs": 196,
     "nationality": "UNITED STATES",
     "region": "EMEA"
   },
   {
     "name": "crazyguy",
     "team": "Rex Regum Qeon",
+    "past_teams": [
+      "KIMMY KITTENS",
+      "Disguised",
+      "Vietnam",
+      "BLEED",
+      "Nigma Galaxy",
+      "Team Big BAAM",
+      "Steal Your Glory",
+      "QQQ Hasagi"
+    ],
     "winnings": 68731,
     "most_played_agents": [
       "sova",
@@ -542,12 +974,24 @@
       "fade"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.34,
+    "acs": 213,
     "nationality": "VIETNAM",
     "region": "PAC"
   },
   {
     "name": "crewen",
     "team": "BBL Esports",
+    "past_teams": [
+      "PCIFIC Esports",
+      "BBL PCIFIC",
+      "HOWL Esports",
+      "New Boss Esports",
+      "Surreal Esports",
+      "Fire Flux Young",
+      "KATANA CLAN",
+      "Parla Esports"
+    ],
     "winnings": 54600,
     "most_played_agents": [
       "cypher",
@@ -555,12 +999,15 @@
       "viper"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.21,
+    "acs": 199,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "crownfisher",
     "team": "JD Gaming",
+    "past_teams": [],
     "winnings": 17000,
     "most_played_agents": [
       "omen",
@@ -568,12 +1015,22 @@
       "jett"
     ],
     "avg_kda": 0.97,
+    "assists_per_round": 0.36,
+    "acs": 189,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "crws",
     "team": null,
+    "past_teams": [
+      "FULL SENSE",
+      "coach",
+      "TALON",
+      "XERXIA Esports",
+      "X10 Esports",
+      "Magic Esport"
+    ],
     "winnings": 71300,
     "most_played_agents": [
       "breach",
@@ -581,12 +1038,24 @@
       "skye"
     ],
     "avg_kda": 0.93,
+    "assists_per_round": 0.35,
+    "acs": 184,
     "nationality": "THAILAND",
     "region": "PAC"
   },
   {
     "name": "cryocells",
     "team": "100 Thieves",
+    "past_teams": [
+      "United States of America",
+      "Team AverageJonas",
+      "100 Thieves",
+      "XSET",
+      "SoaR",
+      "PUGSTARS",
+      "Cosmic Divide",
+      "Big Frames"
+    ],
     "winnings": 270660,
     "most_played_agents": [
       "jett",
@@ -594,12 +1063,33 @@
       "chamber"
     ],
     "avg_kda": 1.33,
+    "assists_per_round": 0.2,
+    "acs": 239,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "cyvoph",
     "team": null,
+    "past_teams": [
+      "GIANTX",
+      "France",
+      "Natus Vincere",
+      "FNATIC",
+      "Team Vitality",
+      "Joblife",
+      "loan",
+      "Team France",
+      "Mandatory",
+      "3DMAX",
+      "Team Valiant",
+      "beGenius",
+      "QUESTIONMARK",
+      "Exalty",
+      "Can't Be Touched",
+      "ECM FCG eSports",
+      "Evolved Gaming"
+    ],
     "winnings": 4536,
     "most_played_agents": [
       "breach",
@@ -607,12 +1097,18 @@
       "kayo"
     ],
     "avg_kda": 0.99,
+    "assists_per_round": 0.4,
+    "acs": 203,
     "nationality": "FRANCE",
     "region": "EMEA"
   },
   {
     "name": "d4v41",
     "team": null,
+    "past_teams": [
+      "Malaysia",
+      "Paper Rex"
+    ],
     "winnings": 471661,
     "most_played_agents": [
       "skye",
@@ -620,12 +1116,22 @@
       "jett"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.28,
+    "acs": 212,
     "nationality": "MALAYSIA",
     "region": "PAC"
   },
   {
     "name": "dambi",
     "team": "Gen.G",
+    "past_teams": [
+      "South Korea",
+      "Nongshim RedForce",
+      "Sin Prisa Gaming",
+      "Gwangju Shadow",
+      "Team OGS",
+      "ALPHA"
+    ],
     "winnings": 152915,
     "most_played_agents": [
       "neon",
@@ -633,12 +1139,21 @@
       "waylay"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.26,
+    "acs": 229,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "dantedeu5",
     "team": null,
+    "past_teams": [
+      "Argentina",
+      "KRÜ Esports",
+      "OXEN",
+      "All Knights",
+      "LRV Esports"
+    ],
     "winnings": 8986,
     "most_played_agents": [
       "neon",
@@ -646,12 +1161,23 @@
       "raze"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.21,
+    "acs": 231,
     "nationality": "ARGENTINA",
     "region": "AMER"
   },
   {
     "name": "darker",
     "team": null,
+    "past_teams": [
+      "Colombia",
+      "LOUD",
+      "E-Xolos LAZER",
+      "FUSION",
+      "Team Cruelty",
+      "Butterfly Effect",
+      "CNG Esports"
+    ],
     "winnings": 233875,
     "most_played_agents": [
       "breach",
@@ -659,12 +1185,22 @@
       "viper"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.44,
+    "acs": 210,
     "nationality": "COLOMBIA",
     "region": "AMER"
   },
   {
     "name": "davih",
     "team": "LOUD",
+    "past_teams": [
+      "Portugal",
+      "CGN Esports",
+      "SAW",
+      "Arroz",
+      "Macacos Bovinos",
+      "WhynotVLR"
+    ],
     "winnings": 228178,
     "most_played_agents": [
       "sova",
@@ -672,12 +1208,25 @@
       "omen"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.32,
+    "acs": 198,
     "nationality": "PORTUGAL",
     "region": "AMER"
   },
   {
     "name": "delb",
     "team": "Trace Esports",
+    "past_teams": [
+      "Indonesia",
+      "All Gamers",
+      "ENDER DRAGON",
+      "17Gaming",
+      "Alter Ego",
+      "Langit9",
+      "WAY Esports",
+      "Dewa United Esports",
+      "VOIN ESPORTS"
+    ],
     "winnings": 7050,
     "most_played_agents": [
       "jett",
@@ -685,12 +1234,24 @@
       "cypher"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.18,
+    "acs": 231,
     "nationality": "INDONESIA",
     "region": "CN"
   },
   {
     "name": "demon1",
     "team": "ENVY",
+    "past_teams": [
+      "Cloud9",
+      "Dragon Ranger Gaming",
+      "LEVIATÁN",
+      "NRG",
+      "Evil Geniuses",
+      "sqn 2.0",
+      "Flex Gaming",
+      "Team Artisan"
+    ],
     "winnings": 253060,
     "most_played_agents": [
       "chamber",
@@ -698,12 +1259,23 @@
       "brimstone"
     ],
     "avg_kda": 1.29,
+    "assists_per_round": 0.14,
+    "acs": 238,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "derke",
     "team": "Aurora Gaming",
+    "past_teams": [
+      "Finland",
+      "Team Vitality",
+      "FNATIC",
+      "CrowСrowd",
+      "unsigned",
+      "STR99",
+      "str100"
+    ],
     "winnings": 390092,
     "most_played_agents": [
       "jett",
@@ -711,12 +1283,26 @@
       "yoru"
     ],
     "avg_kda": 1.21,
+    "assists_per_round": 0.19,
+    "acs": 251,
     "nationality": "FINLAND",
     "region": "EMEA"
   },
   {
     "name": "deryeon",
     "team": "Unsettled Resentment",
+    "past_teams": [
+      "Wolves Esports",
+      "Singapore",
+      "Motiv Esports",
+      "Global Esports Spotlight",
+      "Global Esports",
+      "Disguised",
+      "BLEED",
+      "Louvre",
+      "Renaissance",
+      "XIAO"
+    ],
     "winnings": 36614,
     "most_played_agents": [
       "jett",
@@ -724,12 +1310,28 @@
       "killjoy"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.15,
+    "acs": 229,
     "nationality": "SINGAPORE",
     "region": "CN"
   },
   {
     "name": "dgzin",
     "team": null,
+    "past_teams": [
+      "Evil Geniuses",
+      "Team Solid",
+      "DIRETORIA",
+      "LOUD",
+      "Hero Base",
+      "UNIÃO",
+      "Os maridinhos",
+      "FURIA",
+      "Gamelanders Blue",
+      "Stars Horizon",
+      "TERROR.NET",
+      "B4 Esports"
+    ],
     "winnings": 23488,
     "most_played_agents": [
       "jett",
@@ -737,12 +1339,21 @@
       "raze"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.15,
+    "acs": 243,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "dh",
     "team": null,
+    "past_teams": [
+      "T1",
+      "T1 Academy",
+      "T1 Spotlight",
+      "CREST GAMING Zst",
+      "REIGNITE"
+    ],
     "winnings": 14360,
     "most_played_agents": [
       "omen",
@@ -750,12 +1361,18 @@
       "viper"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.33,
+    "acs": 222,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "dingwei",
     "team": "A Team",
+    "past_teams": [
+      "China",
+      "Dragon Ranger Gaming"
+    ],
     "winnings": 562,
     "most_played_agents": [
       "sova",
@@ -763,12 +1380,24 @@
       "viper"
     ],
     "avg_kda": 0.84,
+    "assists_per_round": 0.28,
+    "acs": 169,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "dos9",
     "team": "Karmine Corp",
+    "past_teams": [
+      "Kazakhstan",
+      "BOOM Esports",
+      "Revenant Esports",
+      "AEX-1",
+      "The Squad",
+      "perezvon",
+      "team420",
+      "ULUGBEK"
+    ],
     "winnings": 45173,
     "most_played_agents": [
       "omen",
@@ -776,12 +1405,17 @@
       "brimstone"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.35,
+    "acs": 208,
     "nationality": "KAZAKHSTAN",
     "region": "EMEA"
   },
   {
     "name": "dynamite",
     "team": "Titan Esports Club",
+    "past_teams": [
+      "Trace Esports"
+    ],
     "winnings": 1978,
     "most_played_agents": [
       "neon",
@@ -789,12 +1423,17 @@
       "raze"
     ],
     "avg_kda": 0.95,
+    "assists_per_round": 0.27,
+    "acs": 206,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "echo",
     "team": "Eternal Fire",
+    "past_teams": [
+      "ULF Esports"
+    ],
     "winnings": 9669,
     "most_played_agents": [
       "cypher",
@@ -802,12 +1441,23 @@
       "vyse"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.21,
+    "acs": 210,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "eeiu",
     "team": null,
+    "past_teams": [
+      "Canada",
+      "FURIA",
+      "100 Thieves",
+      "M80",
+      "NRG",
+      "ResettingSleepSchedules",
+      "T1 Academy"
+    ],
     "winnings": 59575,
     "most_played_agents": [
       "sova",
@@ -815,12 +1465,25 @@
       "breach"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.32,
+    "acs": 209,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "efina",
     "team": null,
+    "past_teams": [
+      "Gen.G",
+      "X-CAST",
+      "Rookies",
+      "T1 Academy",
+      "Team IAM",
+      "F4Q",
+      "TNL Esports",
+      "Vision Strikers",
+      "Quantum Strikers"
+    ],
     "winnings": 23537,
     "most_played_agents": [
       "killjoy",
@@ -828,12 +1491,26 @@
       "fade"
     ],
     "avg_kda": 0.97,
+    "assists_per_round": 0.23,
+    "acs": 184,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "eko",
     "team": "ZETA DIVISION",
+    "past_teams": [
+      "NOEZ FOXX",
+      "ZETA DIVISION",
+      "TOP Esports",
+      "Gen.G",
+      "REIGNITE",
+      "Incheon On Sla2ers",
+      "iCEGunmandu",
+      "TNL Esports",
+      "Quantum Strikers",
+      "No Mercy"
+    ],
     "winnings": 20755,
     "most_played_agents": [
       "sova",
@@ -841,12 +1518,19 @@
       "fade"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.31,
+    "acs": 227,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "erde",
     "team": "LOUD",
+    "past_teams": [
+      "Chile",
+      "LEVIATÁN Academy",
+      "Furious Gaming"
+    ],
     "winnings": 223049,
     "most_played_agents": [
       "omen",
@@ -854,12 +1538,20 @@
       "sage"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.41,
+    "acs": 203,
     "nationality": "CHILE",
     "region": "AMER"
   },
   {
     "name": "eren",
     "team": "A Team",
+    "past_teams": [
+      "Octagonal Disposition Gaming",
+      "TYLOO",
+      "Ninjas In Pyjamas",
+      "Shenzhen NTER"
+    ],
     "winnings": 525,
     "most_played_agents": [
       "raze",
@@ -867,12 +1559,17 @@
       "neon"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.2,
+    "acs": 250,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "erv",
     "team": "TYLOO",
+    "past_teams": [
+      "LANDODGERS"
+    ],
     "winnings": 24919,
     "most_played_agents": [
       "omen",
@@ -880,12 +1577,20 @@
       "breach"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.4,
+    "acs": 197,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "ethan",
     "team": "NRG",
+    "past_teams": [
+      "United States of America",
+      "Evil Geniuses",
+      "NRG",
+      "100 Thieves"
+    ],
     "winnings": 645700,
     "most_played_agents": [
       "skye",
@@ -893,12 +1598,24 @@
       "omen"
     ],
     "avg_kda": 0.97,
+    "assists_per_round": 0.43,
+    "acs": 195,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "exit",
     "team": "Stallions Esports",
+    "past_teams": [
+      "Saudi Arabia",
+      "Natus Vincere",
+      "AlQadsiah Esports",
+      "Twisted Minds",
+      "Triple Esports Club",
+      "Team Saudi Arabia",
+      "01 Esports",
+      "Full of Tilt"
+    ],
     "winnings": 24181,
     "most_played_agents": [
       "jett",
@@ -906,12 +1623,15 @@
       "raze"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.18,
+    "acs": 232,
     "nationality": "SAUDI ARABIA",
     "region": "EMEA"
   },
   {
     "name": "ezeir",
     "team": "Nova Esports",
+    "past_teams": [],
     "winnings": 9208,
     "most_played_agents": [
       "omen",
@@ -919,12 +1639,17 @@
       "viper"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.39,
+    "acs": 207,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "f0rsaken",
     "team": "Paper Rex",
+    "past_teams": [
+      "Paper Rex x Spotlight Series"
+    ],
     "winnings": 476311,
     "most_played_agents": [
       "jett",
@@ -932,12 +1657,20 @@
       "neon"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.28,
+    "acs": 240,
     "nationality": "INDONESIA",
     "region": "PAC"
   },
   {
     "name": "f4ngeer",
     "team": "All Gamers",
+    "past_teams": [
+      "KCORP Blue Stars",
+      "trashcan",
+      "top gz",
+      "botiki prada"
+    ],
     "winnings": 25418,
     "most_played_agents": [
       "jett",
@@ -945,12 +1678,19 @@
       "raze"
     ],
     "avg_kda": 1.23,
+    "assists_per_round": 0.17,
+    "acs": 245,
     "nationality": "RUSSIA",
     "region": "CN"
   },
   {
     "name": "favian",
     "team": "Eternal Fire",
+    "past_teams": [
+      "ULF Esports",
+      "TEAM NEXUS",
+      "BLOK6"
+    ],
     "winnings": 9142,
     "most_played_agents": [
       "raze",
@@ -958,12 +1698,18 @@
       "kayo"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.31,
+    "acs": 203,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "fengf",
     "team": "Trace Esports",
+    "past_teams": [
+      "Totoro Gaming",
+      "Weibo Gaming"
+    ],
     "winnings": 18394,
     "most_played_agents": [
       "raze",
@@ -971,12 +1717,25 @@
       "killjoy"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.2,
+    "acs": 228,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "fireballops",
     "team": "Cloud9",
+    "past_teams": [
+      "Nightblood Gaming",
+      "Blue Otter",
+      "1337",
+      "Wombo Combo",
+      "Division 0",
+      "The Silk Road",
+      "Built By Gamers Academy",
+      "Exotic",
+      "Zero Gravity"
+    ],
     "winnings": 3140,
     "most_played_agents": [
       "killjoy",
@@ -984,12 +1743,15 @@
       "chamber"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.16,
+    "acs": 224,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "fkey",
     "team": "Trace Esports",
+    "past_teams": [],
     "winnings": 0,
     "most_played_agents": [
       "fade",
@@ -997,12 +1759,20 @@
       "sage"
     ],
     "avg_kda": 0.81,
+    "assists_per_round": 0.32,
+    "acs": 175,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "flicker",
     "team": "KIWOOM DRX",
+    "past_teams": [
+      "CREST GAMING Zst",
+      "loan",
+      "KIWOOM DRX",
+      "DRX Academy"
+    ],
     "winnings": 10074,
     "most_played_agents": [
       "waylay",
@@ -1010,12 +1780,24 @@
       "yoru"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.23,
+    "acs": 215,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "flickless",
     "team": "UCAM Esports Club",
+    "past_teams": [
+      "Belgium",
+      "GIANTX",
+      "UCAM Esports Club",
+      "PXL Esports",
+      "Sector One",
+      "Sector One Wings Program",
+      "PASCHKA",
+      "NOX Esports"
+    ],
     "winnings": 30080,
     "most_played_agents": [
       "breach",
@@ -1023,12 +1805,17 @@
       "jett"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.43,
+    "acs": 210,
     "nationality": "BELGIUM",
     "region": "EMEA"
   },
   {
     "name": "folykiki",
     "team": "A Team",
+    "past_teams": [
+      "China"
+    ],
     "winnings": 562,
     "most_played_agents": [
       "neon",
@@ -1036,12 +1823,22 @@
       "jett"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.24,
+    "acs": 237,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "foxy9",
     "team": null,
+    "past_teams": [
+      "VARREL",
+      "Gen.G",
+      "KIWOOM DRX",
+      "REIGNITE",
+      "Feel So Good",
+      "World Game Star"
+    ],
     "winnings": 81776,
     "most_played_agents": [
       "killjoy",
@@ -1049,12 +1846,21 @@
       "cypher"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.17,
+    "acs": 216,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "francis",
     "team": "Nongshim RedForce",
+    "past_teams": [
+      "South Korea",
+      "Sin Prisa Gaming",
+      "Gwangju Shadow",
+      "Team OGS",
+      "ALPHA"
+    ],
     "winnings": 152915,
     "most_played_agents": [
       "yoru",
@@ -1062,12 +1868,22 @@
       "fade"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.28,
+    "acs": 211,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "free1ng",
     "team": null,
+    "past_teams": [
+      "DRX Spotlight",
+      "KIWOOM DRX",
+      "Rare Atom",
+      "Dplus Esports",
+      "KGA",
+      "aNg DarkHorse"
+    ],
     "winnings": 97716,
     "most_played_agents": [
       "cypher",
@@ -1075,12 +1891,17 @@
       "killjoy"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.2,
+    "acs": 208,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "ft",
     "team": "Bilibili Gaming",
+    "past_teams": [
+      "XLB"
+    ],
     "winnings": 8250,
     "most_played_agents": [
       "viper",
@@ -1088,12 +1909,19 @@
       "omen"
     ],
     "avg_kda": 0.95,
+    "assists_per_round": 0.24,
+    "acs": 180,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "glacier",
     "team": "Wolves Esports",
+    "past_teams": [
+      "是這裡嗎",
+      "GOOD BOY",
+      "姊姊壞了我好愛"
+    ],
     "winnings": 2572,
     "most_played_agents": [
       "neon",
@@ -1101,12 +1929,33 @@
       "omen"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.29,
+    "acs": 251,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "glyph",
     "team": "Cloud9",
+    "past_teams": [
+      "ENVY",
+      "Gentle Mates",
+      "Winthrop University",
+      "Ambrosia",
+      "FUSION",
+      "ILLICIT",
+      "Mookah Rabbits",
+      "UST Esports",
+      "YFP",
+      "The Silk Road",
+      "OC Esports",
+      "Team Reckaroo",
+      "trial",
+      "Pack a Punch",
+      "Cloud9 Academy",
+      "Teal Seam",
+      "Last Round Save"
+    ],
     "winnings": 24610,
     "most_played_agents": [
       "omen",
@@ -1114,12 +1963,17 @@
       "viper"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.36,
+    "acs": 202,
     "nationality": "PHILIPPINES",
     "region": "AMER"
   },
   {
     "name": "guang",
     "team": "Nova Esports",
+    "past_teams": [
+      "Royal Never Give Up"
+    ],
     "winnings": 9636,
     "most_played_agents": [
       "cypher",
@@ -1127,12 +1981,18 @@
       "vyse"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.17,
+    "acs": 207,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "haodong",
     "team": null,
+    "past_teams": [
+      "Titan Esports Club",
+      "EDward Gaming"
+    ],
     "winnings": 56395,
     "most_played_agents": [
       "omen",
@@ -1140,12 +2000,17 @@
       "viper"
     ],
     "avg_kda": 0.97,
+    "assists_per_round": 0.34,
+    "acs": 183,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "happywei",
     "team": "Xi Lai Gaming",
+    "past_teams": [
+      "Night Wings Gaming"
+    ],
     "winnings": 48292,
     "most_played_agents": [
       "viper",
@@ -1153,12 +2018,23 @@
       "killjoy"
     ],
     "avg_kda": 1.14,
+    "assists_per_round": 0.23,
+    "acs": 222,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "heat",
     "team": null,
+    "past_teams": [
+      "KRÜ Esports",
+      "FURIA",
+      "MIBR",
+      "Keyd Stars",
+      "Desempregados",
+      "Liberty",
+      "DELIRAWOW"
+    ],
     "winnings": 30770,
     "most_played_agents": [
       "jett",
@@ -1166,12 +2042,20 @@
       "kayo"
     ],
     "avg_kda": 1.3,
+    "assists_per_round": 0.15,
+    "acs": 243,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "hiro",
     "team": null,
+    "past_teams": [
+      "Natus Vincere",
+      "FNATIC",
+      "Papara SuperMassive",
+      "WYLDE"
+    ],
     "winnings": 47695,
     "most_played_agents": [
       "cypher",
@@ -1179,12 +2063,18 @@
       "raze"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.21,
+    "acs": 216,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "hyunmin",
     "team": null,
+    "past_teams": [
+      "KIWOOM DRX",
+      "CREST GAMING Zst"
+    ],
     "winnings": 90096,
     "most_played_agents": [
       "raze",
@@ -1192,12 +2082,17 @@
       "neon"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.17,
+    "acs": 244,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "iamgrq",
     "team": "All Gamers",
+    "past_teams": [
+      "Any Questions Gaming"
+    ],
     "winnings": 23887,
     "most_played_agents": [
       "omen",
@@ -1205,12 +2100,21 @@
       "phoenix"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.42,
+    "acs": 195,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "invy",
     "team": "Paper Rex",
+    "past_teams": [
+      "Philippines",
+      "Team Secret",
+      "Oasis Gaming",
+      "SV Empire",
+      "Hashira"
+    ],
     "winnings": 121119,
     "most_played_agents": [
       "sova",
@@ -1218,12 +2122,21 @@
       "breach"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.35,
+    "acs": 208,
     "nationality": "PHILIPPINES",
     "region": "PAC"
   },
   {
     "name": "ivy",
     "team": "Nongshim RedForce",
+    "past_teams": [
+      "South Korea",
+      "Sin Prisa Gaming",
+      "Gwangju Shadow",
+      "Team OGS",
+      "ALPHA"
+    ],
     "winnings": 152915,
     "most_played_agents": [
       "viper",
@@ -1231,12 +2144,19 @@
       "sova"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.24,
+    "acs": 200,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "izu",
     "team": "T1",
+    "past_teams": [
+      "South Korea",
+      "T1 Spotlight",
+      "Jadeite"
+    ],
     "winnings": 106606,
     "most_played_agents": [
       "yoru",
@@ -1244,12 +2164,22 @@
       "jett"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.2,
+    "acs": 226,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "izzy",
     "team": "mixtape5",
+    "past_teams": [
+      "PCIFIC Esports",
+      "Eternal Fire",
+      "Papara SuperMassive",
+      "Kafalar eSports",
+      "Boca Boston",
+      "Team Türkiye"
+    ],
     "winnings": 19686,
     "most_played_agents": [
       "jett",
@@ -1257,12 +2187,25 @@
       "yoru"
     ],
     "avg_kda": 1.25,
+    "assists_per_round": 0.17,
+    "acs": 238,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "jackk",
     "team": null,
+    "past_teams": [
+      "Cloud9",
+      "YFP",
+      "Currys Money Crew",
+      "ROSE",
+      "Berzerkers",
+      "Overtake",
+      "Berzerkers Moon",
+      "Team Mythic",
+      "LazerrFreeks Mythic"
+    ],
     "winnings": 1389,
     "most_played_agents": [
       "fade",
@@ -1270,12 +2213,19 @@
       "tejo"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.34,
+    "acs": 205,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "jamppi",
     "team": "Team Vitality",
+    "past_teams": [
+      "Finland",
+      "BBL Esports",
+      "Team Liquid"
+    ],
     "winnings": 250969,
     "most_played_agents": [
       "jett",
@@ -1283,12 +2233,29 @@
       "breach"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.24,
+    "acs": 209,
     "nationality": "FINLAND",
     "region": "EMEA"
   },
   {
     "name": "jawgemo",
     "team": "Team Vitality",
+    "past_teams": [
+      "G2 Esports",
+      "Team BcJ",
+      "Team tarik",
+      "Team iiTzTimmy",
+      "Evil Geniuses",
+      "T1 Academy",
+      "trial",
+      "Time Out",
+      "Fortnite Fraggers",
+      "Decisive",
+      "Sedated",
+      "DREAMLAND",
+      "Neutralize"
+    ],
     "winnings": 406336,
     "most_played_agents": [
       "raze",
@@ -1296,12 +2263,19 @@
       "jett"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.22,
+    "acs": 233,
     "nationality": "CAMBODIA",
     "region": "AMER"
   },
   {
     "name": "jemkin",
     "team": "Rex Regum Qeon",
+    "past_teams": [
+      "SCARZ",
+      "BLUE BEES.ESP",
+      "CREST GAMING Zst"
+    ],
     "winnings": 51232,
     "most_played_agents": [
       "jett",
@@ -1309,12 +2283,22 @@
       "raze"
     ],
     "avg_kda": 1.24,
+    "assists_per_round": 0.16,
+    "acs": 244,
     "nationality": "RUSSIA",
     "region": "PAC"
   },
   {
     "name": "jerrwin",
     "team": null,
+    "past_teams": [
+      "Sentinels",
+      "SaD Esports",
+      "Trust In Plug",
+      "evil genies",
+      "Lemonade Stand",
+      "SEN Shahzam"
+    ],
     "winnings": 3840,
     "most_played_agents": [
       "raze",
@@ -1322,12 +2306,28 @@
       "neon"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.21,
+    "acs": 257,
     "nationality": "INDIA",
     "region": "AMER"
   },
   {
     "name": "jesse",
     "team": "WIP Esports",
+    "past_teams": [
+      "GIANTX",
+      "Czechia",
+      "UCAM Esports Club",
+      "Twisted Minds",
+      "Joblife",
+      "Barça eSports",
+      "Team Valiant",
+      "Giants Gaming",
+      "LDN UTD",
+      "unsigned",
+      "Inside Games",
+      "na ketu"
+    ],
     "winnings": 18727,
     "most_played_agents": [
       "omen",
@@ -1335,12 +2335,15 @@
       "viper"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.35,
+    "acs": 210,
     "nationality": "CZECH REPUBLIC",
     "region": "EMEA"
   },
   {
     "name": "jieni7",
     "team": "EDward Gaming",
+    "past_teams": [],
     "winnings": 40000,
     "most_played_agents": [
       "kayo",
@@ -1348,12 +2351,22 @@
       "neon"
     ],
     "avg_kda": 0.92,
+    "assists_per_round": 0.4,
+    "acs": 186,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "jinggg",
     "team": null,
+    "past_teams": [
+      "Singapore",
+      "Paper Rex x Spotlight Series",
+      "Paper Rex",
+      "Team SMG",
+      "Orgless",
+      "Reality Rift"
+    ],
     "winnings": 456058,
     "most_played_agents": [
       "raze",
@@ -1361,12 +2374,20 @@
       "sage"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.24,
+    "acs": 246,
     "nationality": "SINGAPORE",
     "region": "PAC"
   },
   {
     "name": "jitboys",
     "team": "FULL SENSE",
+    "past_teams": [
+      "Thailand",
+      "TALON",
+      "FW Esports",
+      "GhostFamily E-Sports"
+    ],
     "winnings": 31454,
     "most_played_agents": [
       "killjoy",
@@ -1374,12 +2395,21 @@
       "omen"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.22,
+    "acs": 193,
     "nationality": "THAILAND",
     "region": "PAC"
   },
   {
     "name": "jkuro",
     "team": "JD Gaming",
+    "past_teams": [
+      "Hong Kong",
+      "TOP Esports",
+      "Anti Eco Eco Club",
+      "Only One Word",
+      "CBT Gaming"
+    ],
     "winnings": 19738,
     "most_played_agents": [
       "omen",
@@ -1387,12 +2417,24 @@
       "raze"
     ],
     "avg_kda": 0.99,
+    "assists_per_round": 0.29,
+    "acs": 202,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "johnqt",
     "team": "Sentinels",
+    "past_teams": [
+      "Morocco",
+      "M80",
+      "Ghostbusters",
+      "Ghost Gaming",
+      "Sum 2 Prove",
+      "ez5",
+      "Fox Gaming",
+      "Viboras"
+    ],
     "winnings": 141720,
     "most_played_agents": [
       "chamber",
@@ -1400,12 +2442,22 @@
       "cypher"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.26,
+    "acs": 196,
     "nationality": "MOROCCO",
     "region": "AMER"
   },
   {
     "name": "jonahp",
     "team": null,
+    "past_teams": [
+      "Canada",
+      "Sentinels",
+      "G2 Esports",
+      "The Guard",
+      "Immortals",
+      "Complexity"
+    ],
     "winnings": 152550,
     "most_played_agents": [
       "skye",
@@ -1413,12 +2465,18 @@
       "kayo"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.39,
+    "acs": 207,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "k1ra",
     "team": "All Gamers",
+    "past_teams": [
+      "China",
+      "Qing Jiu Club"
+    ],
     "winnings": 24306,
     "most_played_agents": [
       "omen",
@@ -1426,12 +2484,22 @@
       "viper"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.28,
+    "acs": 213,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "kaajak",
     "team": "FNATIC",
+    "past_teams": [
+      "Poland",
+      "Apeks",
+      "Zero Tenacity",
+      "Incognito",
+      "Chinchilla",
+      "TEMPO"
+    ],
     "winnings": 203791,
     "most_played_agents": [
       "jett",
@@ -1439,12 +2507,17 @@
       "raze"
     ],
     "avg_kda": 1.24,
+    "assists_per_round": 0.16,
+    "acs": 241,
     "nationality": "POLAND",
     "region": "EMEA"
   },
   {
     "name": "kai",
     "team": "Trace Esports",
+    "past_teams": [
+      "Bilibili Gaming"
+    ],
     "winnings": 17580,
     "most_played_agents": [
       "jett",
@@ -1452,12 +2525,23 @@
       "yoru"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.16,
+    "acs": 230,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "kamo",
     "team": "Team Liquid",
+    "past_teams": [
+      "Poland",
+      "KOI",
+      "GTZ Esports",
+      "DSYRE",
+      "NOM Esports",
+      "l3wandowski",
+      "Pizza Boosters"
+    ],
     "winnings": 68998,
     "most_played_agents": [
       "jett",
@@ -1465,12 +2549,18 @@
       "yoru"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.18,
+    "acs": 242,
     "nationality": "POLAND",
     "region": "EMEA"
   },
   {
     "name": "karon",
     "team": "Gen.G",
+    "past_teams": [
+      "Gen.G",
+      "No No No"
+    ],
     "winnings": 165416,
     "most_played_agents": [
       "omen",
@@ -1478,12 +2568,22 @@
       "viper"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.4,
+    "acs": 195,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "keiko",
     "team": null,
+    "past_teams": [
+      "Great Britain",
+      "NRG",
+      "Team Liquid",
+      "Apeks",
+      "bonk",
+      "WYLDE"
+    ],
     "winnings": 184901,
     "most_played_agents": [
       "jett",
@@ -1491,12 +2591,28 @@
       "raze"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.21,
+    "acs": 228,
     "nationality": "UNITED KINGDOM",
     "region": "AMER"
   },
   {
     "name": "kellys",
     "team": "BOOM Esports",
+    "past_teams": [
+      "Philippines",
+      "Xipto x Global Esports",
+      "Global Esports",
+      "Oasis Gaming",
+      "Action PH",
+      "Sky Empire",
+      "Sky Encore Esports",
+      "Power Rangers",
+      "Rex Regum Qeon",
+      "DR Esports",
+      "Org Not Found",
+      "Affinity Esports"
+    ],
     "winnings": 7168,
     "most_played_agents": [
       "raze",
@@ -1504,12 +2620,21 @@
       "jett"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.31,
+    "acs": 255,
     "nationality": "PHILIPPINES",
     "region": "PAC"
   },
   {
     "name": "keznit",
     "team": "ENVY",
+    "past_teams": [
+      "Chile",
+      "KRÜ Esports",
+      "LEVIATÁN",
+      "Wygers Argentina",
+      "Australs"
+    ],
     "winnings": 68870,
     "most_played_agents": [
       "jett",
@@ -1517,12 +2642,25 @@
       "neon"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.22,
+    "acs": 250,
     "nationality": "CHILE",
     "region": "AMER"
   },
   {
     "name": "kicks",
     "team": "Mandatory",
+    "past_teams": [
+      "Team Liquid",
+      "Team Liquid Academy",
+      "Team Vitality",
+      "Laterious",
+      "bonk",
+      "Finest",
+      "London Esports",
+      "Human Tripwires",
+      "International Five"
+    ],
     "winnings": 52336,
     "most_played_agents": [
       "skye",
@@ -1530,12 +2668,22 @@
       "omen"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.42,
+    "acs": 202,
     "nationality": "ESTONIA",
     "region": "EMEA"
   },
   {
     "name": "killua",
     "team": "FULL SENSE",
+    "past_teams": [
+      "Thailand",
+      "TALON",
+      "FULL SENSE",
+      "Made in Thailand",
+      "FW Esports",
+      "GhostFamily E-Sports"
+    ],
     "winnings": 26860,
     "most_played_agents": [
       "jett",
@@ -1543,12 +2691,20 @@
       "sova"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.2,
+    "acs": 214,
     "nationality": "THAILAND",
     "region": "PAC"
   },
   {
     "name": "kingg",
     "team": null,
+    "past_teams": [
+      "Chile",
+      "LEVIATÁN",
+      "ex-Australs",
+      "Australs"
+    ],
     "winnings": 200308,
     "most_played_agents": [
       "viper",
@@ -1556,12 +2712,21 @@
       "omen"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.32,
+    "acs": 218,
     "nationality": "CHILE",
     "region": "AMER"
   },
   {
     "name": "klaus",
     "team": null,
+    "past_teams": [
+      "VARREL",
+      "SLT Seongnam",
+      "Our Name Is",
+      "Super Kimchi Power",
+      "Team Nutria"
+    ],
     "winnings": 14749,
     "most_played_agents": [
       "cypher",
@@ -1569,12 +2734,19 @@
       "waylay"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.22,
+    "acs": 207,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "knight",
     "team": "Bilibili Gaming",
+    "past_teams": [
+      "China",
+      "KONE eSports Club",
+      "X9 Gaming"
+    ],
     "winnings": 42703,
     "most_played_agents": [
       "breach",
@@ -1582,12 +2754,21 @@
       "sage"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.34,
+    "acs": 195,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "koalanoob",
     "team": null,
+    "past_teams": [
+      "Canada",
+      "FURIA",
+      "Natus Vincere",
+      "M80",
+      "Ghost Gaming"
+    ],
     "winnings": 41447,
     "most_played_agents": [
       "jett",
@@ -1595,12 +2776,25 @@
       "chamber"
     ],
     "avg_kda": 1.3,
+    "assists_per_round": 0.19,
+    "acs": 248,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "koshmaras",
     "team": null,
+    "past_teams": [
+      "Lithuania",
+      "Team Heretics",
+      "DNSTY",
+      "Agent X",
+      "6GPA",
+      "LEO Esports",
+      "Sila4i",
+      "Vultures",
+      "AboveClouds"
+    ],
     "winnings": 32991,
     "most_played_agents": [
       "neon",
@@ -1608,12 +2802,25 @@
       "yoru"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.27,
+    "acs": 239,
     "nationality": "LITHUANIA",
     "region": "EMEA"
   },
   {
     "name": "kovaq",
     "team": null,
+    "past_teams": [
+      "FunPlus Phoenix",
+      "CGN Esports",
+      "Team Vitality",
+      "ALTERNATE aTTaX",
+      "NXT",
+      "Albanian Eagle",
+      "Sissi State Punks",
+      "KVM Esports",
+      "Team gob b"
+    ],
     "winnings": 3101,
     "most_played_agents": [
       "sova",
@@ -1621,12 +2828,23 @@
       "killjoy"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.24,
+    "acs": 235,
     "nationality": "SWITZERLAND",
     "region": "CN"
   },
   {
     "name": "kr1stal",
     "team": null,
+    "past_teams": [
+      "Global Esports Spotlight",
+      "Xipto x Global Esports",
+      "Global Esports",
+      "Xi Lai Gaming",
+      "Night Wings Gaming",
+      "SCARZ",
+      "BLUE BEES.ESP"
+    ],
     "winnings": 63726,
     "most_played_agents": [
       "sova",
@@ -1634,12 +2852,23 @@
       "jett"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.26,
+    "acs": 215,
     "nationality": "RUSSIA",
     "region": "PAC"
   },
   {
     "name": "krostaly",
     "team": "FUT Esports",
+    "past_teams": [
+      "Fenerbahçe Esports",
+      "FUT Esports",
+      "Eternal Fire",
+      "Galakticos",
+      "Regnum Carya Esports",
+      "eJutsu Gaming",
+      "OtherSide Blue"
+    ],
     "winnings": 30529,
     "most_played_agents": [
       "kayo",
@@ -1647,12 +2876,15 @@
       "fade"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.34,
+    "acs": 191,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "krst1ng",
     "team": "KeepBest Gaming",
+    "past_teams": [],
     "winnings": 0,
     "most_played_agents": [
       "omen",
@@ -1660,12 +2892,26 @@
       "astra"
     ],
     "avg_kda": 0.96,
+    "assists_per_round": 0.38,
+    "acs": 175,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "kushy",
     "team": "Rex Regum Qeon",
+    "past_teams": [
+      "Indonesia",
+      "RRQ Spotlight",
+      "GARUDA",
+      "Alter Ego",
+      "Morph Impact",
+      "Art of Throwing",
+      "Reckless Lads",
+      "Art of Team",
+      "4sehat5sempurna",
+      "Somnium Esports"
+    ],
     "winnings": 56631,
     "most_played_agents": [
       "sova",
@@ -1673,12 +2919,22 @@
       "skye"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.3,
+    "acs": 215,
     "nationality": "INDONESIA",
     "region": "PAC"
   },
   {
     "name": "lar0k",
     "team": "BBL Esports",
+    "past_teams": [
+      "Türkiye",
+      "BBL PCIFIC",
+      "PCIFIC Esports",
+      "Regnum Carya Esports",
+      "XXL",
+      "Weda Esports"
+    ],
     "winnings": 61663,
     "most_played_agents": [
       "breach",
@@ -1686,12 +2942,26 @@
       "kayo"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.41,
+    "acs": 213,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "layla",
     "team": "A Team",
+    "past_teams": [
+      "GES Esports",
+      "Team Flash",
+      "Tài Năng Trẻ",
+      "Team Big BAAM",
+      "CERBERUS Esports",
+      "Brave Wolves",
+      "DivisionX Gaming",
+      "Trinity Five",
+      "Fancy United Esports",
+      "FFQ"
+    ],
     "winnings": 7857,
     "most_played_agents": [
       "killjoy",
@@ -1699,12 +2969,18 @@
       "viper"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.25,
+    "acs": 228,
     "nationality": "VIETNAM",
     "region": "CN"
   },
   {
     "name": "leaf",
     "team": "G2 Esports",
+    "past_teams": [
+      "United States of America",
+      "Cloud9"
+    ],
     "winnings": 225560,
     "most_played_agents": [
       "viper",
@@ -1712,12 +2988,25 @@
       "raze"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.25,
+    "acs": 236,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "less",
     "team": "KRÜ Esports",
+    "past_teams": [
+      "Brazil",
+      "Team Vitality",
+      "LOUD",
+      "Pancada e Amigos",
+      "Tropinha do TIKTOK",
+      "Galaxy Carrots",
+      "Jaguares Esports",
+      "Kikados da Galaxy Carrots",
+      "dogz"
+    ],
     "winnings": 197138,
     "most_played_agents": [
       "viper",
@@ -1725,12 +3014,21 @@
       "cypher"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.24,
+    "acs": 216,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "lewn",
     "team": "Karmine Corp",
+    "past_teams": [
+      "BBL Esports",
+      "Galatasaray Esports",
+      "PCIFIC Esports",
+      "KÖSTEBEKGİLLER",
+      "Wofdex Esports"
+    ],
     "winnings": 63684,
     "most_played_agents": [
       "jett",
@@ -1738,12 +3036,20 @@
       "raze"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.16,
+    "acs": 233,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "life",
     "team": "Dragon Ranger Gaming",
+    "past_teams": [
+      "FunPlus Phoenix",
+      "Attacking Soul Esports",
+      "EDward Gaming",
+      "ShengJie Gaming"
+    ],
     "winnings": 30571,
     "most_played_agents": [
       "jett",
@@ -1751,12 +3057,27 @@
       "neon"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.18,
+    "acs": 239,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "lohan",
     "team": "Team Liquid",
+    "past_teams": [
+      "Joblife",
+      "head coach",
+      "GTZ Esports",
+      "DSYRE",
+      "coach",
+      "Sector One",
+      "EGN Esports",
+      "WhynotVLR",
+      "ehehxd",
+      "All Day Long",
+      "YUMPERIGO"
+    ],
     "winnings": 116,
     "most_played_agents": [
       "jett",
@@ -1764,12 +3085,21 @@
       "raze"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.17,
+    "acs": 225,
     "nationality": "PORTUGAL",
     "region": "EMEA"
   },
   {
     "name": "loita",
     "team": "BBL Esports",
+    "past_teams": [
+      "BBL PCIFIC",
+      "PCIFIC Esports",
+      "HOWL Esports",
+      "Digital Athletics Blue",
+      "Reptilians"
+    ],
     "winnings": 61978,
     "most_played_agents": [
       "omen",
@@ -1777,12 +3107,21 @@
       "viper"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.42,
+    "acs": 204,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "lovers-rock",
     "team": "BBL Esports",
+    "past_teams": [
+      "BBL PCIFIC",
+      "3BL Esports",
+      "Papara SuperMassive",
+      "Chipi Chapa's",
+      "Slippy"
+    ],
     "winnings": 51277,
     "most_played_agents": [
       "jett",
@@ -1790,12 +3129,26 @@
       "neon"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.17,
+    "acs": 227,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "lucas",
     "team": null,
+    "past_teams": [
+      "Titan Esports Club",
+      "Crime City",
+      "SaD Purple",
+      "Mochi Fanclub",
+      "Fluid Gaming",
+      "Ambition",
+      "TradeLikePros",
+      "Exotic",
+      "SHOWRUNNERS",
+      "One Percent"
+    ],
     "winnings": 8370,
     "most_played_agents": [
       "sova",
@@ -1803,12 +3156,20 @@
       "skye"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.35,
+    "acs": 202,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "lukxo",
     "team": "LOUD",
+    "past_teams": [
+      "Brazil",
+      "Galorys",
+      "MIXX",
+      "blowzin e amigos"
+    ],
     "winnings": 222520,
     "most_played_agents": [
       "omen",
@@ -1816,12 +3177,23 @@
       "chamber"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.28,
+    "acs": 214,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "luok1ng",
     "team": "Trace Esports",
+    "past_teams": [
+      "TYLOO",
+      "KONE eSports Club",
+      "Qing Jiu Club",
+      "LIZHI",
+      "DingFeng Gaming",
+      "Team LaoPaoer",
+      "Triumphant Song Gaming"
+    ],
     "winnings": 15703,
     "most_played_agents": [
       "omen",
@@ -1829,12 +3201,19 @@
       "brimstone"
     ],
     "avg_kda": 1,
+    "assists_per_round": 0.38,
+    "acs": 190,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "lysoar",
     "team": "Xi Lai Gaming",
+    "past_teams": [
+      "China",
+      "Wolves Esports",
+      "FunPlus Phoenix"
+    ],
     "winnings": 73777,
     "most_played_agents": [
       "omen",
@@ -1842,12 +3221,22 @@
       "killjoy"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.26,
+    "acs": 198,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "mada",
     "team": "NRG",
+    "past_teams": [
+      "Canada",
+      "Moist x Shopify",
+      "Shopify Rebellion Black",
+      "Luminosity",
+      "Andbox",
+      "trial"
+    ],
     "winnings": 379672,
     "most_played_agents": [
       "raze",
@@ -1855,12 +3244,20 @@
       "neon"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.2,
+    "acs": 241,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "mako",
     "team": "Gen.G",
+    "past_teams": [
+      "KIWOOM DRX",
+      "Vision Strikers",
+      "TUBEPLE Gaming",
+      "BE INFAMOUS"
+    ],
     "winnings": 219154,
     "most_played_agents": [
       "omen",
@@ -1868,12 +3265,23 @@
       "astra"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.41,
+    "acs": 202,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "marteen",
     "team": null,
+    "past_teams": [
+      "Czechia",
+      "Gentle Mates",
+      "Karmine Corp",
+      "GMT Esports",
+      "Entropiq",
+      "Straight Outta Retirement",
+      "eSuba"
+    ],
     "winnings": 40056,
     "most_played_agents": [
       "yoru",
@@ -1881,12 +3289,26 @@
       "raze"
     ],
     "avg_kda": 1.27,
+    "assists_per_round": 0.21,
+    "acs": 248,
     "nationality": "CZECH REPUBLIC",
     "region": "EMEA"
   },
   {
     "name": "marved",
     "team": "Masterclass",
+    "past_teams": [
+      "Sentinels",
+      "Canada",
+      "Chet's Pets",
+      "NRG",
+      "Team Shanks",
+      "OpTic Gaming",
+      "ENVY",
+      "FaZe Clan",
+      "Team Underrated",
+      "Jacked Gamers"
+    ],
     "winnings": 150250,
     "most_played_agents": [
       "omen",
@@ -1894,12 +3316,20 @@
       "astra"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.29,
+    "acs": 208,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "mazino",
     "team": "MIBR",
+    "past_teams": [
+      "Chile",
+      "KRÜ Esports",
+      "LEVIATÁN",
+      "Millions Gaming"
+    ],
     "winnings": 165270,
     "most_played_agents": [
       "omen",
@@ -1907,12 +3337,22 @@
       "sage"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.39,
+    "acs": 200,
     "nationality": "CHILE",
     "region": "AMER"
   },
   {
     "name": "meiy",
     "team": null,
+    "past_teams": [
+      "Japan",
+      "DetonatioN FocusMe",
+      "Pro Players",
+      "Crazy Raccoon",
+      "NORTHEPTION",
+      "Nester"
+    ],
     "winnings": 3036,
     "most_played_agents": [
       "jett",
@@ -1920,12 +3360,22 @@
       "neon"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.15,
+    "acs": 245,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "meteor",
     "team": "QT DIG∞",
+    "past_teams": [
+      "T1 Spotlight",
+      "T1",
+      "Gen.G",
+      "NORTHEPTION",
+      "TNL Esports",
+      "I need Girlfriend"
+    ],
     "winnings": 226721,
     "most_played_agents": [
       "jett",
@@ -1933,12 +3383,22 @@
       "chamber"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.16,
+    "acs": 233,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "minny",
     "team": null,
+    "past_teams": [
+      "Czechia",
+      "Gentle Mates",
+      "GoNext Esports",
+      "jardajagr",
+      "Enterprise Esports",
+      "Podnik"
+    ],
     "winnings": 38511,
     "most_played_agents": [
       "killjoy",
@@ -1946,12 +3406,19 @@
       "chamber"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.17,
+    "acs": 215,
     "nationality": "CZECH REPUBLIC",
     "region": "EMEA"
   },
   {
     "name": "monk",
     "team": "A Team",
+    "past_teams": [
+      "Nova Esports",
+      "All Gamers",
+      "Attacking Soul Esports"
+    ],
     "winnings": 3635,
     "most_played_agents": [
       "killjoy",
@@ -1959,12 +3426,20 @@
       "breach"
     ],
     "avg_kda": 0.98,
+    "assists_per_round": 0.3,
+    "acs": 198,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "monyet",
     "team": "Rex Regum Qeon",
+    "past_teams": [
+      "RRQ Spotlight",
+      "Paper Rex",
+      "Global Esports",
+      "ONIC G"
+    ],
     "winnings": 63461,
     "most_played_agents": [
       "omen",
@@ -1972,12 +3447,21 @@
       "neon"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.3,
+    "acs": 220,
     "nationality": "INDONESIA",
     "region": "PAC"
   },
   {
     "name": "munchkin",
     "team": null,
+    "past_teams": [
+      "South Korea",
+      "T1",
+      "Gen.G",
+      "Crazy Raccoon",
+      "Cloud9 Korea"
+    ],
     "winnings": 232210,
     "most_played_agents": [
       "viper",
@@ -1985,12 +3469,21 @@
       "killjoy"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.37,
+    "acs": 203,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "mwzera",
     "team": null,
+    "past_teams": [
+      "KRÜ Esports",
+      "Los Grandes",
+      "FURIA",
+      "Keyd Stars",
+      "Gamelanders Blue"
+    ],
     "winnings": 25859,
     "most_played_agents": [
       "raze",
@@ -1998,12 +3491,19 @@
       "jett"
     ],
     "avg_kda": 1.29,
+    "assists_per_round": 0.25,
+    "acs": 261,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "n4rrate",
     "team": "Karmine Corp",
+    "past_teams": [
+      "Sentinels",
+      "Karmine Corp",
+      "MAD Lions"
+    ],
     "winnings": 78950,
     "most_played_agents": [
       "fade",
@@ -2011,12 +3511,19 @@
       "raze"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.33,
+    "acs": 225,
     "nationality": "UNITED STATES",
     "region": "EMEA"
   },
   {
     "name": "nats",
     "team": "Team Liquid",
+    "past_teams": [
+      "M3 Champions",
+      "Gambit Esports",
+      "FishkaVTom"
+    ],
     "winnings": 213463,
     "most_played_agents": [
       "cypher",
@@ -2024,12 +3531,26 @@
       "killjoy"
     ],
     "avg_kda": 1.21,
+    "assists_per_round": 0.24,
+    "acs": 219,
     "nationality": "RUSSIA",
     "region": "EMEA"
   },
   {
     "name": "natz",
     "team": "BOOM Esports",
+    "past_teams": [
+      "Team Secret",
+      "BOOM Esports",
+      "RRQ Academy",
+      "Rex Regum Qeon",
+      "THE HERO DETA",
+      "Hike Digital Esports",
+      "Alter Ego",
+      "Bakekok",
+      "NXL LIGAGAME",
+      "Elecbossa"
+    ],
     "winnings": 19808,
     "most_played_agents": [
       "cypher",
@@ -2037,12 +3558,29 @@
       "chamber"
     ],
     "avg_kda": 1,
+    "assists_per_round": 0.28,
+    "acs": 197,
     "nationality": "INDONESIA",
     "region": "PAC"
   },
   {
     "name": "nekky",
     "team": "Galatasaray Esports",
+    "past_teams": [
+      "Eternal Fire",
+      "ULF Esports",
+      "CONFIGSTARZ",
+      "XXL",
+      "PDS Esports",
+      "Team Demiral Esports",
+      "2L8",
+      "S2G Esports",
+      "Parla Esports",
+      "Gringo Team",
+      "Orgless5",
+      "Antalyaspor Esports",
+      "Rel Por Gaming"
+    ],
     "winnings": 10607,
     "most_played_agents": [
       "sova",
@@ -2050,12 +3588,19 @@
       "tejo"
     ],
     "avg_kda": 0.95,
+    "assists_per_round": 0.27,
+    "acs": 188,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "neon",
     "team": "LEVIATÁN",
+    "past_teams": [
+      "Argentina",
+      "LEVIATÁN Academy",
+      "Furious Gaming"
+    ],
     "winnings": 87702,
     "most_played_agents": [
       "yoru",
@@ -2063,12 +3608,25 @@
       "chamber"
     ],
     "avg_kda": 1.35,
+    "assists_per_round": 0.18,
+    "acs": 231,
     "nationality": "ARGENTINA",
     "region": "AMER"
   },
   {
     "name": "nephh",
     "team": "Bilibili Gaming",
+    "past_teams": [
+      "ORGLESS",
+      "BLEED",
+      "Singapore",
+      "X10 Esports",
+      "Louvre",
+      "Gaimin Gladiators",
+      "Huat Zai",
+      "LaZe",
+      "Watermelon Sugar"
+    ],
     "winnings": 38587,
     "most_played_agents": [
       "kayo",
@@ -2076,12 +3634,31 @@
       "omen"
     ],
     "avg_kda": 1.02,
+    "assists_per_round": 0.5,
+    "acs": 202,
     "nationality": "SINGAPORE",
     "region": "CN"
   },
   {
     "name": "net",
     "team": null,
+    "past_teams": [
+      "GIANTX",
+      "FlyQuest",
+      "NRG Academy",
+      "Cloud9",
+      "M80",
+      "G2 Esports",
+      "Team tarik",
+      "The Guard",
+      "Andbox",
+      "trial",
+      "Squirtle Squad",
+      "Teal Seam",
+      "Elysium",
+      "Dialed In",
+      "TradeLikePros Gold"
+    ],
     "winnings": 55455,
     "most_played_agents": [
       "cypher",
@@ -2089,12 +3666,22 @@
       "viper"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.2,
+    "acs": 198,
     "nationality": "UNITED STATES",
     "region": "EMEA"
   },
   {
     "name": "nicc",
     "team": "Dragon Ranger Gaming",
+    "past_teams": [
+      "Chinese Taipei",
+      "LP33",
+      "Night Wings Gaming",
+      "Team VS",
+      "Victory Formula",
+      "Wolfpack"
+    ],
     "winnings": 14167,
     "most_played_agents": [
       "skye",
@@ -2102,12 +3689,22 @@
       "fade"
     ],
     "avg_kda": 0.93,
+    "assists_per_round": 0.44,
+    "acs": 179,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "nightz",
     "team": "Cloud9",
+    "past_teams": [
+      "ENVY",
+      "Cubert Academy",
+      "RANKERS",
+      "OREGON HACK",
+      "ASTANE",
+      "RyZe Esports"
+    ],
     "winnings": 10670,
     "most_played_agents": [
       "yoru",
@@ -2115,12 +3712,22 @@
       "clove"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.33,
+    "acs": 233,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "ninja",
     "team": "HONK",
+    "past_teams": [
+      "PCIFIC Esports",
+      "Team Liquid Academy",
+      "Chipi Chapa's",
+      "FULL BOX 200",
+      "FFXD",
+      "FLYMORE"
+    ],
     "winnings": 5094,
     "most_played_agents": [
       "fade",
@@ -2128,12 +3735,21 @@
       "sova"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.33,
+    "acs": 204,
     "nationality": "POLAND",
     "region": "EMEA"
   },
   {
     "name": "nobody",
     "team": null,
+    "past_teams": [
+      "China",
+      "EDward Gaming",
+      "Qing Jiu Club",
+      "LIZHI",
+      "Royal Never Give Up"
+    ],
     "winnings": 317392,
     "most_played_agents": [
       "sova",
@@ -2141,12 +3757,25 @@
       "fade"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.3,
+    "acs": 199,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "noman",
     "team": "Xi Lai Gaming",
+    "past_teams": [
+      "Hong Kong",
+      "ESC Gaming",
+      "Rare Atom",
+      "eQuizers",
+      "K10",
+      "Wintermint",
+      "CTRL Esports",
+      "Nativz",
+      "Oblivion Force"
+    ],
     "winnings": 34868,
     "most_played_agents": [
       "jett",
@@ -2154,12 +3783,20 @@
       "raze"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.16,
+    "acs": 216,
     "nationality": "HONG KONG",
     "region": "CN"
   },
   {
     "name": "oonzmlp",
     "team": null,
+    "past_teams": [
+      "VARREL",
+      "SLT Seongnam",
+      "Maru Gaming",
+      "KIDZONE"
+    ],
     "winnings": 15203,
     "most_played_agents": [
       "omen",
@@ -2167,12 +3804,22 @@
       "cypher"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.33,
+    "acs": 208,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "oxy",
     "team": "Sentinels",
+    "past_teams": [
+      "Cloud9",
+      "G2 Esports",
+      "Dark Ratio",
+      "YFP",
+      "Moon Raccoons",
+      "Vireo.pro"
+    ],
     "winnings": 17329,
     "most_played_agents": [
       "jett",
@@ -2180,12 +3827,29 @@
       "neon"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.18,
+    "acs": 256,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "paincakes",
     "team": null,
+    "past_teams": [
+      "Evil Geniuses",
+      "Evil Geniuses Academy",
+      "Shopify Rebellion Black",
+      "Moist x Shopify",
+      "FLUFFY AIMERS",
+      "Together We Are Terrific",
+      "OREsports",
+      "City Boys",
+      "Akrew",
+      "ez5",
+      "cute fat boys",
+      "Equinox Esports",
+      "China Nguyen"
+    ],
     "winnings": 16145,
     "most_played_agents": [
       "omen",
@@ -2193,12 +3857,26 @@
       "raze"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.32,
+    "acs": 212,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "patmen",
     "team": null,
+    "past_teams": [
+      "Philippines",
+      "Global Esports",
+      "Paper Rex",
+      "NAOS",
+      "ZOL Esports",
+      "Stream Raiders Nacague",
+      "TALON",
+      "717 Monster Esports",
+      "Sunsparks",
+      "Xtreme Elite Esports"
+    ],
     "winnings": 180229,
     "most_played_agents": [
       "fade",
@@ -2206,12 +3884,22 @@
       "omen"
     ],
     "avg_kda": 1.03,
+    "assists_per_round": 0.3,
+    "acs": 204,
     "nationality": "PHILIPPINES",
     "region": "PAC"
   },
   {
     "name": "primmie",
     "team": null,
+    "past_teams": [
+      "Thailand",
+      "FULL SENSE",
+      "TALON",
+      "gollum666",
+      "XGOD",
+      "FW Esports"
+    ],
     "winnings": 22440,
     "most_played_agents": [
       "jett",
@@ -2219,12 +3907,22 @@
       "deadlock"
     ],
     "avg_kda": 1.26,
+    "assists_per_round": 0.16,
+    "acs": 242,
     "nationality": "THAILAND",
     "region": "PAC"
   },
   {
     "name": "profek",
     "team": "Team Vitality",
+    "past_teams": [
+      "Poland",
+      "BBL Esports",
+      "GoNext Esports",
+      "Diamant Esports",
+      "Incognito",
+      "Polonez"
+    ],
     "winnings": 149750,
     "most_played_agents": [
       "omen",
@@ -2232,12 +3930,22 @@
       "viper"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.36,
+    "acs": 201,
     "nationality": "POLAND",
     "region": "EMEA"
   },
   {
     "name": "proxh",
     "team": "Barça eSports",
+    "past_teams": [
+      "Germany",
+      "Gentle Mates",
+      "Enterprise Esports",
+      "Eintracht Frankfurt",
+      "loan",
+      "5HEAD"
+    ],
     "winnings": 29096,
     "most_played_agents": [
       "omen",
@@ -2245,12 +3953,30 @@
       "astra"
     ],
     "avg_kda": 1.21,
+    "assists_per_round": 0.41,
+    "acs": 213,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "purp0",
     "team": "Barça eSports",
+    "past_teams": [
+      "Team Liquid",
+      "Joblife",
+      "GIANTX",
+      "KPI Gaming",
+      "FOKUS",
+      "M3 Champions",
+      "XPLDZ",
+      "B8 Esports",
+      "FishkaVTom",
+      "Moscow Five jr",
+      "HESOYAM",
+      "Team Empire",
+      "Rebels",
+      "mercenaries"
+    ],
     "winnings": 31155,
     "most_played_agents": [
       "jett",
@@ -2258,12 +3984,18 @@
       "skye"
     ],
     "avg_kda": 1.35,
+    "assists_per_round": 0.16,
+    "acs": 247,
     "nationality": "RUSSIA",
     "region": "EMEA"
   },
   {
     "name": "qiutian",
     "team": "Nova Esports",
+    "past_teams": [
+      "Wolves Esports",
+      "Meow"
+    ],
     "winnings": 7957,
     "most_played_agents": [
       "sova",
@@ -2271,12 +4003,28 @@
       "omen"
     ],
     "avg_kda": 0.94,
+    "assists_per_round": 0.29,
+    "acs": 176,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "qpert",
     "team": "HONK",
+    "past_teams": [
+      "Serbia",
+      "PCIFIC Esports",
+      "Team Liquid Academy",
+      "SK Gaming",
+      "Digital Athletics",
+      "Cloud9",
+      "Team Liquid",
+      "analyst",
+      "The Guard",
+      "assistant coach",
+      "Sector One",
+      "PENTA"
+    ],
     "winnings": 5917,
     "most_played_agents": [
       "omen",
@@ -2284,12 +4032,17 @@
       "breach"
     ],
     "avg_kda": 0.91,
+    "assists_per_round": 0.37,
+    "acs": 168,
     "nationality": "SERBIA",
     "region": "EMEA"
   },
   {
     "name": "ra1ny",
     "team": "Titan Esports Club",
+    "past_teams": [
+      "Titan Esports Club"
+    ],
     "winnings": 0,
     "most_played_agents": [
       "neon",
@@ -2297,12 +4050,20 @@
       "chamber"
     ],
     "avg_kda": 0.96,
+    "assists_per_round": 0.18,
+    "acs": 219,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "rarga",
     "team": null,
+    "past_teams": [
+      "Xi Lai Gaming",
+      "Dragon Ranger Gaming",
+      "NASR Esports",
+      "next_viigraem"
+    ],
     "winnings": 48292,
     "most_played_agents": [
       "neon",
@@ -2310,12 +4071,20 @@
       "yoru"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.17,
+    "acs": 236,
     "nationality": "RUSSIA",
     "region": "CN"
   },
   {
     "name": "raxcal",
     "team": "Gen.G",
+    "past_teams": [
+      "Gen.G Global Academy",
+      "ONSIDE GAMING",
+      "FN Pocheon",
+      "URACHACHA"
+    ],
     "winnings": 4263,
     "most_played_agents": [
       "neon",
@@ -2323,12 +4092,19 @@
       "sage"
     ],
     "avg_kda": 1,
+    "assists_per_round": 0.2,
+    "acs": 209,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "rb",
     "team": "Nongshim RedForce",
+    "past_teams": [
+      "Titan Esports Club",
+      "KIWOOM DRX",
+      "Vision Strikers"
+    ],
     "winnings": 284592,
     "most_played_agents": [
       "jett",
@@ -2336,12 +4112,23 @@
       "raze"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.23,
+    "acs": 221,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "reduxx",
     "team": null,
+    "past_teams": [
+      "Morocco",
+      "Sentinels",
+      "Cubert Academy",
+      "Oxygen Esports",
+      "Oxygen Academy",
+      "ex-FLICKBAITERS",
+      "FLICKBAITERS"
+    ],
     "winnings": 19293,
     "most_played_agents": [
       "jett",
@@ -2349,12 +4136,22 @@
       "neon"
     ],
     "avg_kda": 1.24,
+    "assists_per_round": 0.18,
+    "acs": 253,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "riens",
     "team": "Team Heretics",
+    "past_teams": [
+      "Türkiye",
+      "S2G Esports",
+      "HEET",
+      "WYLDE",
+      "Surreal Esports",
+      "Unity Esports"
+    ],
     "winnings": 300366,
     "most_played_agents": [
       "sova",
@@ -2362,12 +4159,24 @@
       "fade"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.33,
+    "acs": 207,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "ros",
     "team": "BBL Esports",
+    "past_teams": [
+      "BBL PCIFIC",
+      "PCIFIC Esports",
+      "Regnum Carya Esports",
+      "Fenerbahçe Esports",
+      "New Boss Esports",
+      "Surreal Esports",
+      "Fire Flux Young",
+      "OtherSide"
+    ],
     "winnings": 63605,
     "most_played_agents": [
       "sova",
@@ -2375,12 +4184,27 @@
       "breach"
     ],
     "avg_kda": 0.87,
+    "assists_per_round": 0.31,
+    "acs": 173,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "rossy",
     "team": "ENVY",
+    "past_teams": [
+      "LEVIATÁN",
+      "Cloud9",
+      "T1",
+      "Turtle Troop",
+      "FaZe Clan",
+      "The Nation",
+      "TSM",
+      "Immortals",
+      "Frick Ya Bag",
+      "Team FYB",
+      "Lemonade Stand"
+    ],
     "winnings": 14400,
     "most_played_agents": [
       "viper",
@@ -2388,12 +4212,15 @@
       "breach"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.37,
+    "acs": 197,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "rushia",
     "team": "Bilibili Gaming",
+    "past_teams": [],
     "winnings": 26413,
     "most_played_agents": [
       "omen",
@@ -2401,12 +4228,21 @@
       "astra"
     ],
     "avg_kda": 0.95,
+    "assists_per_round": 0.37,
+    "acs": 191,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "ruxic",
     "team": null,
+    "past_teams": [
+      "Türkiye",
+      "Natus Vincere",
+      "Digital Athletics",
+      "Fire Flux Esports",
+      "Parla Esports"
+    ],
     "winnings": 18821,
     "most_played_agents": [
       "omen",
@@ -2414,12 +4250,22 @@
       "astra"
     ],
     "avg_kda": 1.21,
+    "assists_per_round": 0.35,
+    "acs": 224,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "s0pp",
     "team": "Eternal Fire",
+    "past_teams": [
+      "Türkiye",
+      "FUT Esports",
+      "ULF Esports",
+      "Digital Athletics",
+      "NEANLATIYONBOLM",
+      "Hunter Lions Espor"
+    ],
     "winnings": 33527,
     "most_played_agents": [
       "neon",
@@ -2427,12 +4273,25 @@
       "yoru"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.21,
+    "acs": 223,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "saadhak",
     "team": null,
+    "past_teams": [
+      "Argentina",
+      "KRÜ Esports",
+      "Karmine Corp",
+      "LOUD",
+      "Pancada e Amigos",
+      "Team Vikings",
+      "Estral Esports",
+      "9z Globant",
+      "Team Frankkaster"
+    ],
     "winnings": 217919,
     "most_played_agents": [
       "kayo",
@@ -2440,12 +4299,22 @@
       "killjoy"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.42,
+    "acs": 212,
     "nationality": "ARGENTINA",
     "region": "AMER"
   },
   {
     "name": "sato",
     "team": "LEVIATÁN",
+    "past_teams": [
+      "Brazil",
+      "M80",
+      "Galorys",
+      "MIXX",
+      "puGG",
+      "Maniacos da Mira"
+    ],
     "winnings": 92191,
     "most_played_agents": [
       "jett",
@@ -2453,12 +4322,20 @@
       "phoenix"
     ],
     "avg_kda": 1.26,
+    "assists_per_round": 0.18,
+    "acs": 246,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "sayonara",
     "team": "Team Vitality",
+    "past_teams": [
+      "VIT.Revolution",
+      "DVM Esport",
+      "FNATIC",
+      "KPI Gaming"
+    ],
     "winnings": 119839,
     "most_played_agents": [
       "sova",
@@ -2466,12 +4343,18 @@
       "viper"
     ],
     "avg_kda": 1.27,
+    "assists_per_round": 0.26,
+    "acs": 215,
     "nationality": "MOLDOVA, REPUBLIC OF",
     "region": "EMEA"
   },
   {
     "name": "scales",
     "team": "Any Questions Gaming",
+    "past_teams": [
+      "TYLOO",
+      "Shenzhen NTER"
+    ],
     "winnings": 24591,
     "most_played_agents": [
       "viper",
@@ -2479,12 +4362,21 @@
       "omen"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.24,
+    "acs": 198,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "seph1roth",
     "team": "FULL SENSE",
+    "past_teams": [
+      "Sharper Esports",
+      "FULL SENSE",
+      "Made in Thailand",
+      "CRIT Esports",
+      "No Brimstone"
+    ],
     "winnings": 19552,
     "most_played_agents": [
       "omen",
@@ -2492,12 +4384,17 @@
       "jett"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.27,
+    "acs": 215,
     "nationality": "THAILAND",
     "region": "PAC"
   },
   {
     "name": "setrod",
     "team": "FunPlus Phoenix",
+    "past_teams": [
+      "GOOD BOY"
+    ],
     "winnings": 1720,
     "most_played_agents": [
       "neon",
@@ -2505,12 +4402,23 @@
       "viper"
     ],
     "avg_kda": 1.06,
+    "assists_per_round": 0.18,
+    "acs": 214,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "seven",
     "team": null,
+    "past_teams": [
+      "PCIFIC Esports",
+      "TSM",
+      "Cappers",
+      "T1",
+      "100 Thieves",
+      "Teal Seam",
+      "Zoomer Academy"
+    ],
     "winnings": 28385,
     "most_played_agents": [
       "jett",
@@ -2518,12 +4426,15 @@
       "killjoy"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.18,
+    "acs": 235,
     "nationality": "MEXICO",
     "region": "EMEA"
   },
   {
     "name": "sharks",
     "team": "Xi Lai Gaming",
+    "past_teams": [],
     "winnings": 0,
     "most_played_agents": [
       "raze",
@@ -2531,12 +4442,21 @@
       "chamber"
     ],
     "avg_kda": 1.03,
+    "assists_per_round": 0.24,
+    "acs": 235,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "shr1mp",
     "team": "All Gamers",
+    "past_teams": [
+      "FunPlus Phoenix",
+      "Qing Jiu Club",
+      "JiJieHao",
+      "J Team",
+      "TYLOO"
+    ],
     "winnings": 23887,
     "most_played_agents": [
       "skye",
@@ -2544,12 +4464,24 @@
       "fade"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.31,
+    "acs": 197,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "shyy",
     "team": null,
+    "past_teams": [
+      "FURIA",
+      "Chile",
+      "BESTIA",
+      "Melser Kindergarten",
+      "Farenvehn",
+      "KRÜ Esports",
+      "LEVIATÁN",
+      "playHard"
+    ],
     "winnings": 48300,
     "most_played_agents": [
       "killjoy",
@@ -2557,12 +4489,23 @@
       "viper"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.22,
+    "acs": 197,
     "nationality": "CHILE",
     "region": "AMER"
   },
   {
     "name": "sibeastw0w",
     "team": "KeepBest Gaming",
+    "past_teams": [
+      "Oxuji",
+      "AlQadsiah Esports",
+      "GMBLERS Esports",
+      "NASR Esports",
+      "snatch",
+      "eXiLe eSports",
+      "zTitans"
+    ],
     "winnings": 12988,
     "most_played_agents": [
       "jett",
@@ -2570,12 +4513,22 @@
       "yoru"
     ],
     "avg_kda": 1.28,
+    "assists_per_round": 0.2,
+    "acs": 257,
     "nationality": "RUSSIA",
     "region": "CN"
   },
   {
     "name": "siufatbb",
     "team": "TYLOO",
+    "past_teams": [
+      "Hong Kong",
+      "Wolves Esports",
+      "Ninjas In Pyjamas",
+      "JiJieHao",
+      "Griffin E-Sports",
+      "Team Z"
+    ],
     "winnings": 56941,
     "most_played_agents": [
       "sova",
@@ -2583,12 +4536,25 @@
       "fade"
     ],
     "avg_kda": 1.03,
+    "assists_per_round": 0.24,
+    "acs": 186,
     "nationality": "HONG KONG",
     "region": "CN"
   },
   {
     "name": "skuba",
     "team": "NRG",
+    "past_teams": [
+      "United States of America",
+      "Cubert Academy",
+      "Oxygen Esports",
+      "NSIC",
+      "Knights",
+      "trial",
+      "Knights Academy",
+      "Pioneers",
+      "FPL-C"
+    ],
     "winnings": 372600,
     "most_played_agents": [
       "viper",
@@ -2596,12 +4562,27 @@
       "omen"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.33,
+    "acs": 204,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "skye",
     "team": "Team Secret",
+    "past_teams": [
+      "RRQ Academy",
+      "coach",
+      "MLT Esports",
+      "Orangutan",
+      "analyst",
+      "Galaxy Esports",
+      "No Namers",
+      "Equinox Esports",
+      "Dogwater Esports",
+      "XIAO",
+      "JMNY6"
+    ],
     "winnings": 1977,
     "most_played_agents": [
       "omen",
@@ -2609,12 +4590,19 @@
       "brimstone"
     ],
     "avg_kda": 0.82,
+    "assists_per_round": 0.32,
+    "acs": 169,
     "nationality": "SINGAPORE",
     "region": "PAC"
   },
   {
     "name": "slowly",
     "team": "TYLOO",
+    "past_teams": [
+      "China",
+      "ZY Gaming",
+      "TYLOO"
+    ],
     "winnings": 24870,
     "most_played_agents": [
       "yoru",
@@ -2622,12 +4610,19 @@
       "omen"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.3,
+    "acs": 215,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "smoggy",
     "team": "Bilibili Gaming",
+    "past_teams": [
+      "EDward Gaming",
+      "Weibo Gaming",
+      "For The Dream"
+    ],
     "winnings": 305800,
     "most_played_agents": [
       "jett",
@@ -2635,12 +4630,23 @@
       "raze"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.26,
+    "acs": 224,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "sociablee",
     "team": "Eternal Fire",
+    "past_teams": [
+      "FUT Esports",
+      "Natus Vincere",
+      "BBL Esports",
+      "Parla Esports",
+      "Fire Flux Esports",
+      "Anatolia Esports",
+      "OtherSide"
+    ],
     "winnings": 54921,
     "most_played_agents": [
       "jett",
@@ -2648,12 +4654,20 @@
       "omen"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.24,
+    "acs": 249,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "something",
     "team": "Paper Rex",
+    "past_teams": [
+      "Paper Rex x Spotlight Series",
+      "Sengoku Gaming",
+      "BLUE BEES.ESP",
+      "Insomnia"
+    ],
     "winnings": 371694,
     "most_played_agents": [
       "jett",
@@ -2661,12 +4675,22 @@
       "reyna"
     ],
     "avg_kda": 1.26,
+    "assists_per_round": 0.18,
+    "acs": 236,
     "nationality": "RUSSIA",
     "region": "PAC"
   },
   {
     "name": "spear",
     "team": "Eternal Fire",
+    "past_teams": [
+      "Barça eSports",
+      "Eternal Fire Passion",
+      "Eternal Fire",
+      "Papara SuperMassive",
+      "TEAM NEXUS",
+      "BLOK6"
+    ],
     "winnings": 4624,
     "most_played_agents": [
       "cypher",
@@ -2674,12 +4698,21 @@
       "neon"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.2,
+    "acs": 218,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "spike",
     "team": "LEVIATÁN",
+    "past_teams": [
+      "Brazil",
+      "2Game Esports",
+      "ABOMINEVE",
+      "NEV",
+      "blowzin e amigos"
+    ],
     "winnings": 89079,
     "most_played_agents": [
       "neon",
@@ -2687,12 +4720,19 @@
       "gekko"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.32,
+    "acs": 229,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "spiritz1",
     "team": "Dragon Ranger Gaming",
+    "past_teams": [
+      "Chinese Taipei",
+      "Five Ace Esports",
+      "X64"
+    ],
     "winnings": 10741,
     "most_played_agents": [
       "yoru",
@@ -2700,12 +4740,20 @@
       "jett"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.2,
+    "acs": 230,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "spitfires",
     "team": "Titan Esports Club",
+    "past_teams": [
+      "All Gamers",
+      "Rare Atom",
+      "LIZHI",
+      "Sparkling Arrow Gaming"
+    ],
     "winnings": 1760,
     "most_played_agents": [
       "jett",
@@ -2713,12 +4761,22 @@
       "neon"
     ],
     "avg_kda": 0.96,
+    "assists_per_round": 0.17,
+    "acs": 216,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "splash",
     "team": "TYLOO",
+    "past_teams": [
+      "Indonesia",
+      "Team sol8erry",
+      "RRQ Academy",
+      "IGNITE",
+      "NEXGA",
+      "Tan Family"
+    ],
     "winnings": 26316,
     "most_played_agents": [
       "raze",
@@ -2726,12 +4784,21 @@
       "jett"
     ],
     "avg_kda": 1.22,
+    "assists_per_round": 0.2,
+    "acs": 266,
     "nationality": "INDONESIA",
     "region": "CN"
   },
   {
     "name": "spring",
     "team": "Wolves Esports",
+    "past_teams": [
+      "Chinese Taipei",
+      "Ninjas In Pyjamas",
+      "Shenzhen NTER",
+      "Five Ace Esports",
+      "CBT Gaming"
+    ],
     "winnings": 28565,
     "most_played_agents": [
       "jett",
@@ -2739,12 +4806,18 @@
       "viper"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.22,
+    "acs": 249,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "ssees",
     "team": "DetonatioN FocusMe",
+    "past_teams": [
+      "VARREL",
+      "DetonatioN FocusMe"
+    ],
     "winnings": 0,
     "most_played_agents": [
       "omen",
@@ -2752,12 +4825,24 @@
       "viper"
     ],
     "avg_kda": 0.86,
+    "assists_per_round": 0.39,
+    "acs": 166,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "starxo",
     "team": "Mandatory",
+    "past_teams": [
+      "Poland",
+      "Gentle Mates",
+      "Joblife",
+      "KOI",
+      "Acend",
+      "Raise Your Edge",
+      "Don't Even Ask",
+      "THOSE GUYS"
+    ],
     "winnings": 134014,
     "most_played_agents": [
       "skye",
@@ -2765,12 +4850,19 @@
       "fade"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.31,
+    "acs": 195,
     "nationality": "POLAND",
     "region": "EMEA"
   },
   {
     "name": "stax",
     "team": "T1",
+    "past_teams": [
+      "T1 Spotlight",
+      "KIWOOM DRX",
+      "Vision Strikers"
+    ],
     "winnings": 242120,
     "most_played_agents": [
       "breach",
@@ -2778,12 +4870,28 @@
       "kayo"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.41,
+    "acs": 194,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "styron",
     "team": null,
+    "past_teams": [
+      "Team Secret",
+      "XLB",
+      "Motiv Esports",
+      "KIMMY KITTENS",
+      "Disguised",
+      "Singapore",
+      "Enigma Gaming",
+      "Gaimin Gladiators",
+      "shiba n the homies",
+      "Huat Zai",
+      "Team 600",
+      "LaZe"
+    ],
     "winnings": 29512,
     "most_played_agents": [
       "sova",
@@ -2791,12 +4899,19 @@
       "skye"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.31,
+    "acs": 199,
     "nationality": "SINGAPORE",
     "region": "PAC"
   },
   {
     "name": "sugarz3ro",
     "team": "ZETA DIVISION",
+    "past_teams": [
+      "Japan",
+      "NORTHEPTION",
+      "Lugen"
+    ],
     "winnings": 33904,
     "most_played_agents": [
       "omen",
@@ -2804,12 +4919,22 @@
       "viper"
     ],
     "avg_kda": 1,
+    "assists_per_round": 0.37,
+    "acs": 189,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "supamen",
     "team": null,
+    "past_teams": [
+      "Evil Geniuses",
+      "FaZe Clan",
+      "Rise",
+      "Dignitas",
+      "Homeless",
+      "Echo 8"
+    ],
     "winnings": 12800,
     "most_played_agents": [
       "omen",
@@ -2817,12 +4942,19 @@
       "viper"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.31,
+    "acs": 191,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "suygetsu",
     "team": "Karmine Corp",
+    "past_teams": [
+      "Natus Vincere",
+      "FunPlus Phoenix",
+      "forZe"
+    ],
     "winnings": 155944,
     "most_played_agents": [
       "cypher",
@@ -2830,12 +4962,21 @@
       "killjoy"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.21,
+    "acs": 205,
     "nationality": "INTERNATIONAL",
     "region": "EMEA"
   },
   {
     "name": "swagzor",
     "team": "Nova Esports",
+    "past_teams": [
+      "Enterprise Esports",
+      "NOVO Esports",
+      "apinaorkesteri",
+      "Team Occupy",
+      "Occupy Jr"
+    ],
     "winnings": 8748,
     "most_played_agents": [
       "raze",
@@ -2843,12 +4984,23 @@
       "jett"
     ],
     "avg_kda": 1.19,
+    "assists_per_round": 0.18,
+    "acs": 253,
     "nationality": "RUSSIA",
     "region": "CN"
   },
   {
     "name": "sylvan",
     "team": "Team Secret",
+    "past_teams": [
+      "T1",
+      "TOP Esports",
+      "Gen.G",
+      "World Game Star",
+      "AUTOCRACY",
+      "ZFGaming",
+      "aNg DarkHorse"
+    ],
     "winnings": 65738,
     "most_played_agents": [
       "omen",
@@ -2856,12 +5008,23 @@
       "brimstone"
     ],
     "avg_kda": 1.03,
+    "assists_per_round": 0.39,
+    "acs": 194,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "syouta",
     "team": "ZETA DIVISION",
+    "past_teams": [
+      "Murash Gaming",
+      "ZETA DIVISION",
+      "FENNEL",
+      "みぞもりゲーミング",
+      "CREST GAMING Zst",
+      "New Team",
+      "AIGIS"
+    ],
     "winnings": 8791,
     "most_played_agents": [
       "astra",
@@ -2869,12 +5032,19 @@
       "cypher"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.29,
+    "acs": 219,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "t3xture",
     "team": "Gen.G",
+    "past_teams": [
+      "Gen.G",
+      "Global Esports",
+      "DAMWON Gaming"
+    ],
     "winnings": 176413,
     "most_played_agents": [
       "jett",
@@ -2882,12 +5052,26 @@
       "neon"
     ],
     "avg_kda": 1.2,
+    "assists_per_round": 0.17,
+    "acs": 241,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "tex",
     "team": "Yellow Dragon Gaming",
+    "past_teams": [
+      "Germany",
+      "MIBR",
+      "LEVIATÁN",
+      "The Guard",
+      "Team Shanks",
+      "NRG",
+      "Equinox Esports",
+      "Proven",
+      "Adaptation",
+      "Prospects"
+    ],
     "winnings": 136475,
     "most_played_agents": [
       "jett",
@@ -2895,12 +5079,23 @@
       "raze"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.18,
+    "acs": 217,
     "nationality": "GERMANY",
     "region": "AMER"
   },
   {
     "name": "timotino",
     "team": "100 Thieves",
+    "past_teams": [
+      "TSM",
+      "No Home",
+      "QoR",
+      "Berzerkers",
+      "Rock Bottom",
+      "ROSE",
+      "The Grid"
+    ],
     "winnings": 201909,
     "most_played_agents": [
       "jett",
@@ -2908,12 +5103,22 @@
       "neon"
     ],
     "avg_kda": 1.24,
+    "assists_per_round": 0.2,
+    "acs": 258,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "tkzin",
     "team": "KRÜ SPARK",
+    "past_teams": [
+      "LOUD",
+      "loan",
+      "Corinthians Esports",
+      "THE 7",
+      "Furious Gaming",
+      "amamosfranjudas"
+    ],
     "winnings": 217401,
     "most_played_agents": [
       "neon",
@@ -2921,12 +5126,15 @@
       "raze"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.18,
+    "acs": 232,
     "nationality": "BRAZIL",
     "region": "AMER"
   },
   {
     "name": "tonk",
     "team": "KeepBest Gaming",
+    "past_teams": [],
     "winnings": 0,
     "most_played_agents": [
       "cypher",
@@ -2934,12 +5142,21 @@
       "sage"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.19,
+    "acs": 195,
     "nationality": "HONG KONG",
     "region": "CN"
   },
   {
     "name": "trent",
     "team": "G2 Esports",
+    "past_teams": [
+      "United States of America",
+      "The Guard",
+      "Most Prolific",
+      "Fenrir",
+      "Team Reckaroo"
+    ],
     "winnings": 227846,
     "most_played_agents": [
       "sova",
@@ -2947,12 +5164,24 @@
       "skye"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.34,
+    "acs": 211,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "trexx",
     "team": "Aurora Gaming",
+    "past_teams": [
+      "Team Liquid",
+      "Team Vitality",
+      "KOI",
+      "Guild Esports",
+      "OG",
+      "HONK",
+      "Team Singularity",
+      "FishkaVTom"
+    ],
     "winnings": 90026,
     "most_played_agents": [
       "raze",
@@ -2960,12 +5189,28 @@
       "fade"
     ],
     "avg_kda": 1.29,
+    "assists_per_round": 0.35,
+    "acs": 241,
     "nationality": "RUSSIA",
     "region": "EMEA"
   },
   {
     "name": "udotan",
     "team": "Nongshim RedForce",
+    "past_teams": [
+      "Global Esports",
+      "Global Esports Spotlight",
+      "Rare Atom",
+      "Four Angry Men",
+      "QwQ",
+      "Gwangju Shadow",
+      "Tartarus",
+      "Short Team",
+      "TALON",
+      "GoNGo Prince",
+      "Noble Experience",
+      "Team Nutria"
+    ],
     "winnings": 45591,
     "most_played_agents": [
       "jett",
@@ -2973,12 +5218,23 @@
       "neon"
     ],
     "avg_kda": 1.07,
+    "assists_per_round": 0.19,
+    "acs": 234,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "v1c",
     "team": "Cloud9",
+    "past_teams": [
+      "Azure Dragon Gaming",
+      "Cloud9",
+      "Moist x Shopify",
+      "Shopify Rebellion Black",
+      "NSIC",
+      "SoaR",
+      "T1 Academy"
+    ],
     "winnings": 21247,
     "most_played_agents": [
       "omen",
@@ -2986,12 +5242,24 @@
       "kayo"
     ],
     "avg_kda": 1.16,
+    "assists_per_round": 0.46,
+    "acs": 214,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "valyn",
     "team": null,
+    "past_teams": [
+      "United States of America",
+      "G2 Esports",
+      "Team Stewie2k",
+      "The Guard",
+      "Complexity",
+      "Pug Gods",
+      "Balanced Esports",
+      "Flow State"
+    ],
     "winnings": 230436,
     "most_played_agents": [
       "omen",
@@ -2999,12 +5267,19 @@
       "viper"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.34,
+    "acs": 206,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "verno",
     "team": "MIBR",
+    "past_teams": [
+      "NRG",
+      "Oxygen Esports",
+      "Oxygen Academy"
+    ],
     "winnings": 61325,
     "most_played_agents": [
       "sova",
@@ -3012,12 +5287,15 @@
       "skye"
     ],
     "avg_kda": 1.31,
+    "assists_per_round": 0.32,
+    "acs": 213,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "verse",
     "team": "Dragon Ranger Gaming",
+    "past_teams": [],
     "winnings": 0,
     "most_played_agents": [
       "omen",
@@ -3025,12 +5303,23 @@
       "cypher"
     ],
     "avg_kda": 0.88,
+    "assists_per_round": 0.42,
+    "acs": 180,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "vo0kashu",
     "team": "Dragon Ranger Gaming",
+    "past_teams": [
+      "Rebels Gaming",
+      "NOFUTURE",
+      "Crypto Esports",
+      "PURPURE",
+      "Project X",
+      "fostercare",
+      "Tale Quale"
+    ],
     "winnings": 11585,
     "most_played_agents": [
       "cypher",
@@ -3038,12 +5327,20 @@
       "jett"
     ],
     "avg_kda": 1.27,
+    "assists_per_round": 0.21,
+    "acs": 232,
     "nationality": "RUSSIA",
     "region": "CN"
   },
   {
     "name": "vora",
     "team": "100 Thieves",
+    "past_teams": [
+      "TSM",
+      "Project VII",
+      "Team Rocket",
+      "Waverunners"
+    ],
     "winnings": 201490,
     "most_played_agents": [
       "sova",
@@ -3051,12 +5348,26 @@
       "skye"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.33,
+    "acs": 194,
     "nationality": "CANADA",
     "region": "AMER"
   },
   {
     "name": "waddle",
     "team": "UCAM Esports Club",
+    "past_teams": [
+      "PCIFIC Esports",
+      "DNSTY",
+      "DSYRE",
+      "FOKUS",
+      "HEET",
+      "unsigned",
+      "mixenergy",
+      "AREA",
+      "Patchwork",
+      "Prophecy ESC"
+    ],
     "winnings": 13456,
     "most_played_agents": [
       "sova",
@@ -3064,12 +5375,21 @@
       "sage"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.33,
+    "acs": 205,
     "nationality": "UNITED KINGDOM",
     "region": "EMEA"
   },
   {
     "name": "westside",
     "team": "Joblife",
+    "past_teams": [
+      "Poland",
+      "GIANTX",
+      "Diamant Esports",
+      "Incognito",
+      "FLYMORE"
+    ],
     "winnings": 34459,
     "most_played_agents": [
       "cypher",
@@ -3077,12 +5397,18 @@
       "jett"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.16,
+    "acs": 200,
     "nationality": "POLAND",
     "region": "EMEA"
   },
   {
     "name": "whzy",
     "team": "Bilibili Gaming",
+    "past_teams": [
+      "Tales of Eastern",
+      "X9 Gaming"
+    ],
     "winnings": 43308,
     "most_played_agents": [
       "jett",
@@ -3090,12 +5416,21 @@
       "neon"
     ],
     "avg_kda": 1.23,
+    "assists_per_round": 0.19,
+    "acs": 264,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "wo0t",
     "team": "FUT Esports",
+    "past_teams": [
+      "Türkiye",
+      "Team Türkiye",
+      "Team Heretics",
+      "Fire Flux Esports",
+      "Fire Flux Young"
+    ],
     "winnings": 299296,
     "most_played_agents": [
       "jett",
@@ -3103,12 +5438,22 @@
       "viper"
     ],
     "avg_kda": 1.17,
+    "assists_per_round": 0.2,
+    "acs": 235,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "wsleo",
     "team": "Xi Lai Gaming",
+    "past_teams": [
+      "Chinese Taipei",
+      "Thunder Gaming",
+      "Four Angry Men",
+      "LGD Gaming",
+      "UTT Esports",
+      "Five Ace Esports"
+    ],
     "winnings": 26676,
     "most_played_agents": [
       "sova",
@@ -3116,12 +5461,27 @@
       "skye"
     ],
     "avg_kda": 0.94,
+    "assists_per_round": 0.35,
+    "acs": 188,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "xan",
     "team": "BOOM Esports",
+    "past_teams": [
+      "Rex Regum Qeon",
+      "Malaysia",
+      "Motiv Esports",
+      "NAOS",
+      "Team Nasi Lemak",
+      "IGNITE",
+      "LaZe",
+      "Enigma Gaming",
+      "No Namers",
+      "Team SGD",
+      "Chicken Rice Sedap"
+    ],
     "winnings": 17697,
     "most_played_agents": [
       "neon",
@@ -3129,12 +5489,27 @@
       "raze"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.2,
+    "acs": 242,
     "nationality": "MALAYSIA",
     "region": "PAC"
   },
   {
     "name": "xavi8k",
     "team": null,
+    "past_teams": [
+      "Global Esports",
+      "DLSU Viridis Arcus",
+      "coach",
+      "NAOS",
+      "Philippines",
+      "Oasis Gaming",
+      "W Streak Esports",
+      "Ala Kami Org",
+      "Bren Esports",
+      "Sunsparks",
+      "BV Esports"
+    ],
     "winnings": 56735,
     "most_played_agents": [
       "sova",
@@ -3142,12 +5517,21 @@
       "raze"
     ],
     "avg_kda": 1.11,
+    "assists_per_round": 0.38,
+    "acs": 228,
     "nationality": "PHILIPPINES",
     "region": "PAC"
   },
   {
     "name": "xdll",
     "team": "Murash Gaming",
+    "past_teams": [
+      "ZETA DIVISION",
+      "FENNEL",
+      "みぞもりゲーミング",
+      "SCARZ",
+      "BLUE BEES.ESP"
+    ],
     "winnings": 12454,
     "most_played_agents": [
       "sova",
@@ -3155,12 +5539,22 @@
       "sage"
     ],
     "avg_kda": 1.04,
+    "assists_per_round": 0.29,
+    "acs": 204,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "xeus",
     "team": null,
+    "past_teams": [
+      "Türkiye",
+      "FUT Esports",
+      "Eternal Fire",
+      "HOWL Esports",
+      "New Boss Esports",
+      "Weda Esports"
+    ],
     "winnings": 34097,
     "most_played_agents": [
       "raze",
@@ -3168,12 +5562,20 @@
       "waylay"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.17,
+    "acs": 246,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "xffero",
     "team": "Rex Regum Qeon",
+    "past_teams": [
+      "Indonesia",
+      "RRQ Spotlight",
+      "BOOM Esports",
+      "Alter Ego"
+    ],
     "winnings": 62678,
     "most_played_agents": [
       "viper",
@@ -3181,12 +5583,18 @@
       "cypher"
     ],
     "avg_kda": 1.09,
+    "assists_per_round": 0.29,
+    "acs": 200,
     "nationality": "INDONESIA",
     "region": "PAC"
   },
   {
     "name": "xlele",
     "team": "FunPlus Phoenix",
+    "past_teams": [
+      "Thunder Gaming",
+      "Trace Esports"
+    ],
     "winnings": 2000,
     "most_played_agents": [
       "omen",
@@ -3194,12 +5602,17 @@
       "breach"
     ],
     "avg_kda": 0.97,
+    "assists_per_round": 0.34,
+    "acs": 188,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "xross",
     "team": "Nongshim RedForce",
+    "past_teams": [
+      "골판지 전사"
+    ],
     "winnings": 148378,
     "most_played_agents": [
       "fade",
@@ -3207,12 +5620,19 @@
       "yoru"
     ],
     "avg_kda": 1.15,
+    "assists_per_round": 0.29,
+    "acs": 206,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "xuna",
     "team": null,
+    "past_teams": [
+      "VARREL",
+      "SLT Seongnam",
+      "Gamecoach"
+    ],
     "winnings": 14749,
     "most_played_agents": [
       "sova",
@@ -3220,12 +5640,21 @@
       "tejo"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.27,
+    "acs": 203,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "yatsuka",
     "team": null,
+    "past_teams": [
+      "Japan",
+      "DetonatioN FocusMe",
+      "RIDDLE ORDER",
+      "ZETA DIVISION",
+      "ZETA DIVISION Academy"
+    ],
     "winnings": 14017,
     "most_played_agents": [
       "sova",
@@ -3233,12 +5662,19 @@
       "breach"
     ],
     "avg_kda": 1.05,
+    "assists_per_round": 0.26,
+    "acs": 186,
     "nationality": "JAPAN",
     "region": "PAC"
   },
   {
     "name": "yetujey",
     "team": "FUT Esports",
+    "past_teams": [
+      "Fire Flux Esports",
+      "Fire Flux Young",
+      "RED5"
+    ],
     "winnings": 58418,
     "most_played_agents": [
       "cypher",
@@ -3246,12 +5682,17 @@
       "viper"
     ],
     "avg_kda": 1.13,
+    "assists_per_round": 0.2,
+    "acs": 200,
     "nationality": "TüRKIYE",
     "region": "EMEA"
   },
   {
     "name": "ying",
     "team": "KeepBest Gaming",
+    "past_teams": [
+      "Dragon Ranger Gaming"
+    ],
     "winnings": 0,
     "most_played_agents": [
       "phoenix",
@@ -3259,12 +5700,17 @@
       "neon"
     ],
     "avg_kda": 1.01,
+    "assists_per_round": 0.26,
+    "acs": 219,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "yong",
     "team": "KIWOOM DRX",
+    "past_teams": [
+      "DRX Academy"
+    ],
     "winnings": 1633,
     "most_played_agents": [
       "omen",
@@ -3272,12 +5718,20 @@
       "neon"
     ],
     "avg_kda": 0.91,
+    "assists_per_round": 0.3,
+    "acs": 188,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "yosemite",
     "team": "Wolves Esports",
+    "past_teams": [
+      "FunPlus Phoenix",
+      "Bilibili Gaming",
+      "KONE eSports Club",
+      "Suning Gaming"
+    ],
     "winnings": 16741,
     "most_played_agents": [
       "killjoy",
@@ -3285,12 +5739,22 @@
       "raze"
     ],
     "avg_kda": 1.08,
+    "assists_per_round": 0.24,
+    "acs": 218,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "yuicaw",
     "team": "JD Gaming",
+    "past_teams": [
+      "Chinese Taipei",
+      "Wolves Esports",
+      "Attacking Soul Esports",
+      "FunPlus Phoenix",
+      "FunPlus Phoenix ZHUQUE",
+      "CBT Gaming"
+    ],
     "winnings": 51847,
     "most_played_agents": [
       "jett",
@@ -3298,12 +5762,24 @@
       "cypher"
     ],
     "avg_kda": 1.1,
+    "assists_per_round": 0.17,
+    "acs": 219,
     "nationality": "TAIWAN",
     "region": "CN"
   },
   {
     "name": "zekken",
     "team": "MIBR",
+    "past_teams": [
+      "United States of America",
+      "Team Zander",
+      "Sentinels",
+      "Team BABYBAY",
+      "XSET",
+      "Noble",
+      "Phoenix1",
+      "Wichita Wolves"
+    ],
     "winnings": 187253,
     "most_played_agents": [
       "raze",
@@ -3311,12 +5787,23 @@
       "neon"
     ],
     "avg_kda": 1.26,
+    "assists_per_round": 0.28,
+    "acs": 253,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "zellsis",
     "team": "Sentinels",
+    "past_teams": [
+      "Cloud9",
+      "Sentinels",
+      "Team PROD",
+      "Team steel",
+      "Version1",
+      "Orgles5",
+      "SWOLE PATROL"
+    ],
     "winnings": 152775,
     "most_played_agents": [
       "kayo",
@@ -3324,12 +5811,28 @@
       "viper"
     ],
     "avg_kda": 1.02,
+    "assists_per_round": 0.37,
+    "acs": 196,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "zerona",
     "team": null,
+    "past_teams": [
+      "Evil Geniuses",
+      "Evil Geniuses Academy",
+      "SaD Esports",
+      "Life's a Game",
+      "ENVEE Esports",
+      "Zero MarksMen Black",
+      "Fisher Falcons",
+      "the basement",
+      "Fisher White",
+      "Nearest Airport",
+      "Ronin",
+      "Hypothermia"
+    ],
     "winnings": 2810,
     "most_played_agents": [
       "sova",
@@ -3337,12 +5840,21 @@
       "skye"
     ],
     "avg_kda": 1.18,
+    "assists_per_round": 0.3,
+    "acs": 221,
     "nationality": "UNITED STATES",
     "region": "AMER"
   },
   {
     "name": "zeus",
     "team": null,
+    "past_teams": [
+      "Philippines",
+      "Team Secret",
+      "Oasis Gaming",
+      "Avernus Esports",
+      "SNAPZ"
+    ],
     "winnings": 2534,
     "most_played_agents": [
       "neon",
@@ -3350,12 +5862,20 @@
       "raze"
     ],
     "avg_kda": 1.23,
+    "assists_per_round": 0.19,
+    "acs": 255,
     "nationality": "PHILIPPINES",
     "region": "PAC"
   },
   {
     "name": "zexy",
     "team": null,
+    "past_teams": [
+      "VARREL",
+      "SLT Seongnam",
+      "big family",
+      "Club Of Cowards VLRT"
+    ],
     "winnings": 14749,
     "most_played_agents": [
       "jett",
@@ -3363,12 +5883,17 @@
       "raze"
     ],
     "avg_kda": 1.03,
+    "assists_per_round": 0.19,
+    "acs": 224,
     "nationality": "SOUTH KOREA",
     "region": "PAC"
   },
   {
     "name": "zhe",
     "team": "JD Gaming",
+    "past_teams": [
+      "Rare Atom"
+    ],
     "winnings": 17100,
     "most_played_agents": [
       "neon",
@@ -3376,12 +5901,20 @@
       "viper"
     ],
     "avg_kda": 1.12,
+    "assists_per_round": 0.23,
+    "acs": 220,
     "nationality": "CHINA",
     "region": "CN"
   },
   {
     "name": "zmjjkk",
     "team": "EDward Gaming",
+    "past_teams": [
+      "China",
+      "Qing Jiu Club",
+      "CBT Gaming",
+      "Royal Never Give Up"
+    ],
     "winnings": 319079,
     "most_played_agents": [
       "jett",
@@ -3389,6 +5922,8 @@
       "chamber"
     ],
     "avg_kda": 1.28,
+    "assists_per_round": 0.16,
+    "acs": 267,
     "nationality": "CHINA",
     "region": "CN"
   }

@@ -53,9 +53,9 @@ function HelpButton() {
               <p>Each guess shows that player's stats, and each box is colored by how close it is to the mystery player:</p>
               <ul className="flex flex-col gap-1.5">
                 <li><Swatch className="bg-green-600"/>Exact match</li>
-                <li><Swatch className="bg-yellow-500"/>Agents only: you share some of the same agents, but not all</li>
+                <li><Swatch className="bg-yellow-500"/>Close: the mystery player plays that agent but in a different slot, or used to play for that team</li>
                 <li><Swatch className="bg-red-700"/>No match</li>
-                <li><span className="inline-block w-4 mr-2 text-center">▲▼</span>Earnings and K/D: the mystery player's number is higher or lower</li>
+                <li><span className="inline-block w-4 mr-2 text-center">▲▼</span>Earnings, K/D, Assists and ACS: the mystery player's number is higher or lower</li>
               </ul>
             </section>
 
@@ -64,9 +64,10 @@ function HelpButton() {
               <ul className="flex flex-col gap-1 list-disc pl-5">
                 <li><strong>Team</strong>: the team they played for this split</li>
                 <li><strong>Earnings</strong>: career prize money</li>
-                <li><strong>Agents Played</strong>: their 3 most-played agents</li>
+                <li><strong>Agent 1–3</strong>: their 3 most-played agents, most played first. Order matters</li>
                 <li><strong>K/D</strong>: career average kills per death</li>
-                <li><strong>Region</strong>: their VCT league</li>
+                <li><strong>Assists/Rd</strong>: career assists per round on their top 3 agents</li>
+                <li><strong>ACS</strong>: career average combat score on their top 3 agents</li>
               </ul>
             </section>
 

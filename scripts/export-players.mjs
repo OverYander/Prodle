@@ -9,6 +9,23 @@ import { CURRENT_EVENT, eventName } from './current-event.mjs';
 const currentNames = new Set(CURRENT_EVENT.EVENTS.map(e => eventName(e.label).toLowerCase()));
 const isCurrent = p => p.event_year === CURRENT_EVENT.YEAR && currentNames.has(p.event_name.toLowerCase());
 
+// Career assists per round, weighted by rounds played across the agents vlr.gg lists (their top 3).
+function assistsPerRound(stats = []) {
+  const rounds = stats.reduce((sum, s) => sum + (s.rounds ?? 0), 0);
+  const assists = stats.reduce((sum, s) => sum + (s.assists ?? 0), 0);
+  return rounds ? Math.round((assists / rounds) * 100) / 100 : null;
+}
+
+// Career average combat score, weighted by rounds played on each of their top 3 agents.
+function careerAcs(stats = []) {
+  const played = stats.filter(s => s.rounds && s.acs != null);
+  const rounds = played.reduce((sum, s) => sum + s.rounds, 0);
+  return rounds ? Math.round(played.reduce((sum, s) => sum + s.acs * s.rounds, 0) / rounds) : null;
+}
+
+// vlr.gg lists inactivity periods and stand-in spells alongside real teams.
+const isRealTeam = t => t && !/^inactive from/i.test(t) && t.toLowerCase() !== 'stand-in';
+
 const all = getAllPlayers();
 const byName = new Map();
 for (const p of all.filter(isCurrent)) {
@@ -16,9 +33,12 @@ for (const p of all.filter(isCurrent)) {
   byName.set(p.name.toLowerCase(), {
     name: p.name,
     team: p.team,
+    past_teams: [...new Set((p.past_teams ?? []).filter(isRealTeam))],
     winnings: p.winnings,
     most_played_agents: p.most_played_agents,
     avg_kda: Math.round(p.avg_kda * 100) / 100,
+    assists_per_round: assistsPerRound(p.stats),
+    acs: careerAcs(p.stats),
     nationality: p.nationality,
     region: p.region,
   });
